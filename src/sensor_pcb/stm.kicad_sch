@@ -1772,7 +1772,7 @@
 			(uuid "ea53faa4-08b4-480b-b56c-f30740965b06")
 		)
 		(instances
-			(project ""
+			(project "sensor_pcb"
 				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b/dee657b3-24ee-4bdc-baa3-d8df0446c5a4"
 					(reference "U3")
 					(unit 1)

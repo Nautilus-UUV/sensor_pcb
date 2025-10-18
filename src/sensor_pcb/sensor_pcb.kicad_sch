@@ -2498,6 +2498,528 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "#dzdb:s_sens/D-BOSCH-BMP581"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 26.67 17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "BMP581"
+				(at 26.67 15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "dz_sens:BMP581"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmp581-ds004.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Barometric Pressure Sensor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MF" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Height" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow_Price-Stock" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow_Part_Number" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" ""
+				(at 10.414 3.302 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "IPN" "D-BOSCH-BMP581"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "BMP581"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Bosch Sensortec"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Type" "Pressure"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Channels" "1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Vin Range" "1.71V-3.6V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Output" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Current" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Features" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Protection" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Temp Range" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier" "Mouser"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "SPN" "733-BMP581"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C5362283"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Comment" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "dz_sens:BMP581"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "s_sens/D-BOSCH-BMP581_0_0"
+				(rectangle
+					(start 5.08 12.7)
+					(end 25.4 -15.24)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin bidirectional line
+					(at 0 0 0)
+					(length 5.08)
+					(name "VDDIO"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "SCK"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 12.7 17.78 270)
+					(length 5.08)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 12.7 -20.32 90)
+					(length 5.08)
+					(name "VSS_1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 17.78 270)
+					(length 5.08)
+					(name "VSS_3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 -20.32 90)
+					(length 5.08)
+					(name "SDI"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 17.78 270)
+					(length 5.08)
+					(name "VSS_2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 -20.32 90)
+					(length 5.08)
+					(name "SDO"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 30.48 0 180)
+					(length 5.08)
+					(name "INT"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 30.48 -2.54 180)
+					(length 5.08)
+					(name "CSB"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "#dzdb:s_sens/D-SENS-SHT40-AD1F-R2"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2901,8 +3423,8 @@
 		)
 	)
 	(rectangle
-		(start 99.06 16.51)
-		(end 162.56 63.5)
+		(start 140.97 19.05)
+		(end 201.93 46.99)
 		(stroke
 			(width 0)
 			(type default)
@@ -2925,8 +3447,32 @@
 		(uuid 304c35b8-ddbb-4a2d-afab-719ce897d85d)
 	)
 	(rectangle
-		(start 99.06 67.31)
-		(end 184.15 123.19)
+		(start 204.47 19.05)
+		(end 257.81 81.28)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 45e6eed4-af65-4fd7-b019-9e319917a67e)
+	)
+	(rectangle
+		(start 139.7 57.15)
+		(end 172.72 81.28)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 8cd0392d-1c1c-4f58-b769-4294b8145db3)
+	)
+	(rectangle
+		(start 204.47 93.98)
+		(end 265.43 140.97)
 		(stroke
 			(width 0)
 			(type default)
@@ -2935,6 +3481,46 @@
 			(type none)
 		)
 		(uuid f3c83062-d54b-4035-98cd-8b98aae7501c)
+	)
+	(text "Optimize resistors for voltage drop (5-3.3)"
+		(exclude_from_sim no)
+		(at 221.488 149.352 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+		)
+		(uuid "08ba4c3f-962c-493e-a04c-abb6caf87b43")
+	)
+	(text "Tie alert/rdy to GPIO for alerts"
+		(exclude_from_sim no)
+		(at 216.916 145.288 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+		)
+		(uuid "1102885b-e465-457f-abeb-a7cd541d1e1c")
+	)
+	(text "Pressure Sensor (external)\n"
+		(exclude_from_sim no)
+		(at 152.654 56.134 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "12626b45-5a5d-405f-9b9d-b3ce110e193b")
+	)
+	(text "Combine 10k resistors? Make them smaller?"
+		(exclude_from_sim no)
+		(at 221.742 147.574 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+		)
+		(uuid "1b4f1e4f-fc6b-4a46-bf32-4fb82751d08e")
 	)
 	(text "currently high voltage -> leak detected, could use jumper to change that\n"
 		(exclude_from_sim no)
@@ -2946,19 +3532,29 @@
 		)
 		(uuid "32f39578-1e1c-4371-899d-a1c0dfce7af2")
 	)
-	(text "Leak Sensor\n"
+	(text "If we want to have interrupts we can tie INT to free input prin on MCU"
 		(exclude_from_sim no)
-		(at 22.606 16.002 0)
+		(at 232.664 86.36 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+		)
+		(uuid "3411f66b-7380-4569-8119-b78a8a5c0b8c")
+	)
+	(text "Pressure Sensor (Internal)"
+		(exclude_from_sim no)
+		(at 216.916 18.288 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "4f419bb3-fd50-4f4a-9f17-598f11007c21")
+		(uuid "49aa0937-bfca-4e1d-9263-dc5ae41a465d")
 	)
-	(text "Tank Pressure\n"
+	(text "ADC for External Pressure\n"
 		(exclude_from_sim no)
-		(at 105.41 66.294 0)
+		(at 216.662 93.218 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2966,9 +3562,29 @@
 		)
 		(uuid "58512f87-2e2f-4edf-b621-df1b30986a0e")
 	)
-	(text "Humidity + Temp.\n"
+	(text "Can attach SDO to VDD instead to have 0x77 address instead of 0x76"
 		(exclude_from_sim no)
-		(at 107.442 15.748 0)
+		(at 232.156 83.566 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+		)
+		(uuid "58a42c96-9ca6-4745-b5ab-fa13976fb9fa")
+	)
+	(text "Part needs to be DGS package"
+		(exclude_from_sim no)
+		(at 216.662 143.002 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+		)
+		(uuid "6d2621a9-a4a4-4798-a70d-b9303aab392d")
+	)
+	(text "Humidity + Temp. (Internal)\n\n"
+		(exclude_from_sim no)
+		(at 154.686 18.796 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2976,25 +3592,35 @@
 		)
 		(uuid "88505fa6-e19f-49ad-9bfb-03db1140a88b")
 	)
-	(text "Add resistors in series to grab 5v to 3.3 from connector for sensor\n"
+	(text "Temperature Sensor (external)"
 		(exclude_from_sim no)
-		(at 136.144 117.094 0)
+		(at 154.686 91.694 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "90aea3b4-8591-429c-bdb4-2d86264d6b9f")
+		(uuid "b1f04f0b-a5b9-4068-baa1-a19231f2ca20")
 	)
-	(text "change resistors to loose less e\n"
+	(text "CAN Device"
 		(exclude_from_sim no)
-		(at 118.872 120.396 0)
+		(at 145.796 107.696 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "eba0de7a-adf1-48a9-bbf4-a73c9f103cea")
+		(uuid "c432bf0c-f49b-46de-bbe5-71ac279a7553")
+	)
+	(text "Notes\n100 nF decoupling could be centralized"
+		(exclude_from_sim no)
+		(at 197.104 155.702 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e45b50dc-c704-46ad-b9f6-d274c873c30c")
 	)
 	(text "will probably want to have multiple ones\n"
 		(exclude_from_sim no)
@@ -3019,7 +3645,7 @@
 		(uuid "0b08b6f0-32d4-4b94-9cf1-43f3d737f583")
 	)
 	(junction
-		(at 110.49 36.83)
+		(at 149.86 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "10948347-a0f6-4734-a164-b88358b03122")
@@ -3037,13 +3663,7 @@
 		(uuid "17aa9106-d08c-40dc-b385-d56376f52e4f")
 	)
 	(junction
-		(at 127 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1a3ff447-a407-4686-9186-2cc0f963febd")
-	)
-	(junction
-		(at 148.59 46.99)
+		(at 187.96 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "25b4fcbf-a4e8-4208-8d32-a99d3390a55b")
@@ -3055,85 +3675,115 @@
 		(uuid "2ae67f9d-3867-4f45-9090-1fbf5c24671a")
 	)
 	(junction
-		(at 149.86 78.74)
+		(at 237.49 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "34d24b0f-5fb6-4278-b20d-971dd0d852f4")
+		(uuid "32527232-0c10-4e20-b0a4-101606f466fa")
 	)
 	(junction
-		(at 118.11 41.91)
+		(at 157.48 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3edbef17-50ce-49c2-ad2d-18b640acbe82")
 	)
 	(junction
-		(at 127 104.14)
+		(at 212.09 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "420123a3-d193-4c52-9431-7a0d62f27b8b")
+		(uuid "46679bc9-b279-4cb7-b9ae-009bdfd8dedc")
 	)
 	(junction
-		(at 149.86 46.99)
+		(at 189.23 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4e4dddb0-78d2-4936-b258-f21e27968de8")
 	)
 	(junction
-		(at 127 73.66)
+		(at 212.09 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "606b9bd4-47c0-41d4-98d9-2130423d183f")
+		(uuid "58c5e5de-bd70-473e-bf29-62019157286a")
 	)
 	(junction
-		(at 118.11 52.07)
+		(at 241.3 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5fa6afd9-e940-45fd-9b1b-f39f1569ff32")
+	)
+	(junction
+		(at 236.22 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "91ce8c66-4fdd-4f04-96f5-e79c2ff7ab66")
+	)
+	(junction
+		(at 241.3 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "95c9fa9c-61ea-4794-ab29-41531ad22dc3")
+	)
+	(junction
+		(at 247.65 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "97a1c39e-48b7-4bc4-9f52-303f03eacb00")
+	)
+	(junction
+		(at 231.14 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "984cbd4a-3573-4fe3-bf52-2a545f361533")
+	)
+	(junction
+		(at 157.48 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "996d0ea5-2280-497f-9ab9-576c999a208e")
 	)
 	(junction
-		(at 149.86 73.66)
+		(at 212.09 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a202182b-284e-423b-92e5-6e4ed021300b")
+		(uuid "9e9f32bc-f9a3-4581-b6b7-d567f205aa6c")
 	)
 	(junction
-		(at 146.05 91.44)
+		(at 247.65 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a7024f5a-ba8d-4c30-ab11-e359bf58c9c0")
+		(uuid "aad4e981-4ab3-44c2-a5a4-bc1ca842c604")
 	)
 	(junction
-		(at 127 101.6)
+		(at 227.33 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aba4cff6-e7f5-48ac-a190-4a1e21727acd")
 	)
 	(junction
-		(at 153.67 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "af9c4411-1ed6-4515-968f-6e8e7bb1b452")
-	)
-	(junction
-		(at 127 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d13f4228-c540-4ae4-9575-c05cd64dd634")
-	)
-	(junction
-		(at 149.86 31.75)
+		(at 189.23 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d4486be1-a16f-45a3-ba08-8f20e0bddd80")
 	)
 	(junction
-		(at 127 72.39)
+		(at 237.49 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "da1556a9-11f0-400a-995f-a2094bea53da")
+	)
+	(junction
+		(at 227.33 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e197c6d3-25fa-4fce-8759-1b1297ec97d2")
 	)
 	(junction
-		(at 105.41 88.9)
+		(at 231.14 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e346f9f3-b7ba-490e-a3db-09d0a51f3b2a")
+	)
+	(junction
+		(at 208.28 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ecbaf8dc-162f-4b00-805d-222771a1f9d7")
@@ -3146,7 +3796,27 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 77.47) (xy 105.41 78.74)
+			(xy 231.14 21.59) (xy 231.14 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01b089b0-c4e7-47b6-b507-59b6c3b6b1d5")
+	)
+	(wire
+		(pts
+			(xy 231.14 72.39) (xy 231.14 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03b6b2c8-f77c-4eb3-a478-6fca4b2a8ef0")
+	)
+	(wire
+		(pts
+			(xy 208.28 102.87) (xy 208.28 105.41)
 		)
 		(stroke
 			(width 0)
@@ -3176,7 +3846,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 86.36) (xy 146.05 91.44)
+			(xy 241.3 106.68) (xy 241.3 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3186,53 +3856,53 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 72.39) (xy 175.26 87.63)
+			(xy 231.14 25.4) (xy 231.14 29.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "11805272-26f3-4cdf-8b61-9f4f58a4b094")
+		(uuid "11d2e81c-1d4a-4c6f-91cb-4970e3c5ad71")
 	)
 	(wire
 		(pts
-			(xy 110.49 36.83) (xy 110.49 44.45)
+			(xy 241.3 97.79) (xy 247.65 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a1c1cfd-6398-4ee9-99d8-5bc5cfb4fa45")
+	)
+	(wire
+		(pts
+			(xy 236.22 29.21) (xy 252.73 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c395e29-8524-4d4d-ae61-0b3e32a5c4a1")
+	)
+	(wire
+		(pts
+			(xy 233.68 67.31) (xy 233.68 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f09f6a0-a74d-4a5f-90af-132a5169f990")
+	)
+	(wire
+		(pts
+			(xy 149.86 29.21) (xy 149.86 36.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "20ad2ac4-2ac3-426b-9a30-0ca0297a0d78")
-	)
-	(wire
-		(pts
-			(xy 127 106.68) (xy 127 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20efcab1-6338-43f8-b66e-aea13d7ed4d9")
-	)
-	(wire
-		(pts
-			(xy 137.16 104.14) (xy 127 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22c9ef1c-2c2e-4e50-9e7f-ab5b68d11eb0")
-	)
-	(wire
-		(pts
-			(xy 175.26 106.68) (xy 127 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a48892c-3e3f-4214-b7a5-90a33feff306")
 	)
 	(wire
 		(pts
@@ -3246,7 +3916,17 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 91.44) (xy 146.05 91.44)
+			(xy 247.65 97.79) (xy 247.65 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3264a957-4f14-4b9d-bdce-dd856501cdbf")
+	)
+	(wire
+		(pts
+			(xy 237.49 116.84) (xy 241.3 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3266,27 +3946,27 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 101.6) (xy 127 101.6)
+			(xy 212.09 46.99) (xy 212.09 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "37e0f76b-bcf9-4ac5-ac92-4fcfa70a408c")
+		(uuid "3684a797-cfde-43ca-bf29-f3a8f2d10aa9")
 	)
 	(wire
 		(pts
-			(xy 149.86 73.66) (xy 165.1 73.66)
+			(xy 212.09 25.4) (xy 231.14 25.4)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "38dadaea-5ee9-4dba-a33d-a91e4db089bc")
+		(uuid "37ca88f8-7e9b-45d5-aead-7e39a9b953d2")
 	)
 	(wire
 		(pts
-			(xy 102.87 36.83) (xy 110.49 36.83)
+			(xy 142.24 29.21) (xy 149.86 29.21)
 		)
 		(stroke
 			(width 0)
@@ -3296,7 +3976,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 73.66) (xy 165.1 86.36)
+			(xy 255.27 97.79) (xy 255.27 99.06)
 		)
 		(stroke
 			(width 0)
@@ -3306,17 +3986,17 @@
 	)
 	(wire
 		(pts
-			(xy 127 104.14) (xy 127 106.68)
+			(xy 252.73 72.39) (xy 237.49 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3b84d054-096c-4f5f-8358-0ff5e067adc7")
+		(uuid "41a9a321-a68c-4054-a3d1-5688960477b6")
 	)
 	(wire
 		(pts
-			(xy 110.49 36.83) (xy 120.65 36.83)
+			(xy 149.86 29.21) (xy 160.02 29.21)
 		)
 		(stroke
 			(width 0)
@@ -3326,13 +4006,43 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 41.91) (xy 118.11 41.91)
+			(xy 142.24 34.29) (xy 157.48 34.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "50a62861-0986-40bb-aba4-865ef4a5800b")
+	)
+	(wire
+		(pts
+			(xy 209.55 25.4) (xy 212.09 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51206630-1c5b-4cac-825f-e493e880e44c")
+	)
+	(wire
+		(pts
+			(xy 254 25.4) (xy 231.14 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "525d4015-32ad-47b0-a33c-5e1fef72e3ac")
+	)
+	(wire
+		(pts
+			(xy 233.68 29.21) (xy 236.22 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "529227b8-b61f-488c-8a56-c45170432ed8")
 	)
 	(wire
 		(pts
@@ -3346,7 +4056,27 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 46.99) (xy 148.59 46.99)
+			(xy 237.49 67.31) (xy 236.22 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "571fdec4-02d1-4d89-98ef-0ec1b8ab1bc2")
+	)
+	(wire
+		(pts
+			(xy 212.09 72.39) (xy 212.09 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "584d50be-da94-4c67-b57f-d988c6f3556e")
+	)
+	(wire
+		(pts
+			(xy 170.18 39.37) (xy 187.96 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3356,17 +4086,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 102.87) (xy 105.41 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a944be7-bac1-49e4-a8e8-a2849fa89a7e")
-	)
-	(wire
-		(pts
-			(xy 149.86 46.99) (xy 156.21 46.99)
+			(xy 189.23 39.37) (xy 195.58 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3386,17 +4106,17 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 78.74) (xy 153.67 78.74)
+			(xy 247.65 119.38) (xy 250.19 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "690ae99f-50ff-46b4-8e70-3a18d40bd909")
+		(uuid "6a5d0da8-1c61-4264-a656-397869f95792")
 	)
 	(wire
 		(pts
-			(xy 110.49 52.07) (xy 118.11 52.07)
+			(xy 149.86 44.45) (xy 157.48 44.45)
 		)
 		(stroke
 			(width 0)
@@ -3416,7 +4136,17 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 88.9) (xy 116.84 88.9)
+			(xy 231.14 67.31) (xy 231.14 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fbb0adf-2c6e-428a-a1b2-1c9f1f5a2693")
+	)
+	(wire
+		(pts
+			(xy 208.28 114.3) (xy 217.17 114.3)
 		)
 		(stroke
 			(width 0)
@@ -3426,53 +4156,93 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 107.95) (xy 127 107.95)
+			(xy 237.49 119.38) (xy 247.65 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "76868c41-5444-49e9-b985-8ab77795e40a")
+		(uuid "72fad4ba-7794-4f14-aa62-329a9a4029db")
 	)
 	(wire
 		(pts
-			(xy 153.67 93.98) (xy 154.94 93.98)
+			(xy 231.14 72.39) (xy 237.49 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "81bcc2d0-2879-48cf-ab54-7fc04c668591")
+		(uuid "746ea914-f605-47c5-a232-c9bfc341b588")
 	)
 	(wire
 		(pts
-			(xy 146.05 91.44) (xy 148.59 91.44)
+			(xy 237.49 67.31) (xy 237.49 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "83655e71-9f81-4ee9-a027-7ab7088bc9c3")
+		(uuid "78c5dba6-7bb4-47b8-a683-193d88bc35a1")
 	)
 	(wire
 		(pts
-			(xy 127 72.39) (xy 175.26 72.39)
+			(xy 254 49.53) (xy 254 25.4)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "84fd9dd3-df59-4146-97e3-13674791436f")
+		(uuid "7a1df480-cb2c-4bb1-b0cc-ded401d212e9")
 	)
 	(wire
 		(pts
-			(xy 165.1 93.98) (xy 165.1 101.6)
+			(xy 209.55 72.39) (xy 212.09 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82126b01-4064-4047-8f41-e532e646dcf9")
+	)
+	(wire
+		(pts
+			(xy 214.63 49.53) (xy 218.44 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88340dcb-c93e-4522-ba2e-ad00f4797371")
+	)
+	(wire
+		(pts
+			(xy 255.27 106.68) (xy 255.27 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8afbe6f3-5641-48e9-986c-4de1cc4589f3")
+	)
+	(wire
+		(pts
+			(xy 255.27 127) (xy 237.49 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d4f5a81-003e-49ad-bbd6-32b2bb667d18")
+	)
+	(wire
+		(pts
+			(xy 231.14 72.39) (xy 212.09 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f8c0ef6-a989-44e9-9edd-b7edc92ba350")
 	)
 	(wire
 		(pts
@@ -3486,37 +4256,17 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 96.52) (xy 137.16 104.14)
+			(xy 247.65 114.3) (xy 247.65 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "928545ca-6e9b-4ee4-b051-2806b9663fe2")
+		(uuid "91b21811-5504-48ae-a670-2d77f666c429")
 	)
 	(wire
 		(pts
-			(xy 127 72.39) (xy 127 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "92d38aa8-8fc0-4cb9-b41a-9b7954124902")
-	)
-	(wire
-		(pts
-			(xy 137.16 93.98) (xy 153.67 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97d48d52-ca10-4ae3-96a6-c8daba98e0f8")
-	)
-	(wire
-		(pts
-			(xy 127 71.12) (xy 127 72.39)
+			(xy 227.33 96.52) (xy 227.33 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3526,13 +4276,33 @@
 	)
 	(wire
 		(pts
-			(xy 127 73.66) (xy 149.86 73.66)
+			(xy 212.09 46.99) (xy 218.44 46.99)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9fb4fc39-d9a1-4428-9092-07d0b5dd6d95")
+		(uuid "9aff7272-2283-40ba-8cd3-52f1a1538891")
+	)
+	(wire
+		(pts
+			(xy 237.49 121.92) (xy 237.49 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2c2a9ef-ce26-40f2-bc06-7ec131e78370")
+	)
+	(wire
+		(pts
+			(xy 252.73 29.21) (xy 252.73 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2c9f8bc-357b-435b-bb3b-11cf6f5ab08a")
 	)
 	(wire
 		(pts
@@ -3546,7 +4316,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 31.75) (xy 152.4 31.75)
+			(xy 189.23 24.13) (xy 191.77 24.13)
 		)
 		(stroke
 			(width 0)
@@ -3556,17 +4326,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 86.36) (xy 153.67 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a53927b1-a9a8-4112-8689-e7c78d8e7597")
-	)
-	(wire
-		(pts
-			(xy 148.59 46.99) (xy 148.59 52.07)
+			(xy 187.96 39.37) (xy 187.96 44.45)
 		)
 		(stroke
 			(width 0)
@@ -3576,7 +4336,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 101.6) (xy 127 104.14)
+			(xy 227.33 127) (xy 227.33 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3586,7 +4346,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 41.91) (xy 118.11 41.91)
+			(xy 160.02 34.29) (xy 157.48 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3606,23 +4366,23 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 78.74) (xy 149.86 78.74)
+			(xy 209.55 41.91) (xy 209.55 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "af673fbc-926f-45dd-a302-f205bd626447")
+		(uuid "afb5694c-426b-4057-9b05-c526e4cce2d1")
 	)
 	(wire
 		(pts
-			(xy 149.86 73.66) (xy 149.86 78.74)
+			(xy 208.28 121.92) (xy 208.28 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b2c80936-8774-4d36-b842-e2c9967926eb")
+		(uuid "b68c64e1-e98b-4f0a-91fd-c1d28690c24a")
 	)
 	(wire
 		(pts
@@ -3646,17 +4406,27 @@
 	)
 	(wire
 		(pts
-			(xy 127 107.95) (xy 127 109.22)
+			(xy 209.55 25.4) (xy 209.55 34.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "be0f8123-98fc-4029-a2cb-c8e56a2f536d")
+		(uuid "bb7a8581-1f7f-4c91-b684-e42be0075df3")
 	)
 	(wire
 		(pts
-			(xy 149.86 31.75) (xy 149.86 34.29)
+			(xy 227.33 97.79) (xy 241.3 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0ed7c34-10b2-4040-98ae-4ffa320e8546")
+	)
+	(wire
+		(pts
+			(xy 189.23 24.13) (xy 189.23 26.67)
 		)
 		(stroke
 			(width 0)
@@ -3666,7 +4436,37 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 86.36) (xy 105.41 88.9)
+			(xy 241.3 116.84) (xy 242.57 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c449d966-4887-4a3a-b1c3-99eb832a49cd")
+	)
+	(wire
+		(pts
+			(xy 247.65 97.79) (xy 255.27 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4ad008d-f784-4724-ba46-443155943135")
+	)
+	(wire
+		(pts
+			(xy 237.49 127) (xy 227.33 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c52811fc-18ff-4491-a5fa-5c2bf85e85fb")
+	)
+	(wire
+		(pts
+			(xy 208.28 113.03) (xy 208.28 114.3)
 		)
 		(stroke
 			(width 0)
@@ -3676,7 +4476,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 73.66) (xy 127 78.74)
+			(xy 227.33 97.79) (xy 227.33 104.14)
 		)
 		(stroke
 			(width 0)
@@ -3686,7 +4486,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 46.99) (xy 149.86 41.91)
+			(xy 189.23 39.37) (xy 189.23 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3696,7 +4496,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 31.75) (xy 149.86 31.75)
+			(xy 170.18 24.13) (xy 189.23 24.13)
 		)
 		(stroke
 			(width 0)
@@ -3706,13 +4506,23 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 95.25) (xy 175.26 106.68)
+			(xy 241.3 97.79) (xy 241.3 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d1ac0726-ed04-4f26-b4dd-a23b301db023")
+		(uuid "d5444b19-cdc0-4fe1-95f0-b0c175a863cf")
+	)
+	(wire
+		(pts
+			(xy 208.28 127) (xy 227.33 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df3b525a-8d66-4826-aa17-d1b6aa427bf1")
 	)
 	(wire
 		(pts
@@ -3736,7 +4546,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 41.91) (xy 118.11 44.45)
+			(xy 157.48 34.29) (xy 157.48 36.83)
 		)
 		(stroke
 			(width 0)
@@ -3756,6 +4566,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 25.4) (xy 212.09 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec8d41f2-07fd-4b69-a12d-85ddd16d1beb")
+	)
+	(wire
+		(pts
 			(xy 46.99 67.31) (xy 46.99 68.58)
 		)
 		(stroke
@@ -3766,23 +4586,23 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 52.07) (xy 148.59 52.07)
+			(xy 248.92 49.53) (xy 254 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f03fbe17-306a-4bf2-a023-f00ce10a1731")
+	)
+	(wire
+		(pts
+			(xy 157.48 44.45) (xy 187.96 44.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f2475824-8ecc-4cbc-b37f-c29b31148831")
-	)
-	(wire
-		(pts
-			(xy 105.41 88.9) (xy 105.41 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4b378f2-746f-40a6-9dd9-e690739d8d21")
 	)
 	(wire
 		(pts
@@ -3796,7 +4616,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 46.99) (xy 149.86 46.99)
+			(xy 187.96 39.37) (xy 189.23 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3815,7 +4635,7 @@
 		(uuid "1432d76e-75fb-414c-ba46-21e823b8eb75")
 	)
 	(label "VDD"
-		(at 156.21 46.99 0)
+		(at 195.58 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3824,8 +4644,8 @@
 		)
 		(uuid "30436dfe-81fb-41af-9176-3d998e143310")
 	)
-	(label "sensor"
-		(at 105.41 77.47 0)
+	(label "p. sensor"
+		(at 208.28 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3855,7 +4675,7 @@
 		(uuid "64c643e5-ac1e-4ec1-bb2b-6cf837437b41")
 	)
 	(label "SCL"
-		(at 148.59 91.44 0)
+		(at 242.57 116.84 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3875,7 +4695,7 @@
 		(uuid "70194532-cb28-4ad0-863b-3e979bfeb7e6")
 	)
 	(label "SDA"
-		(at 102.87 36.83 0)
+		(at 142.24 29.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3885,7 +4705,7 @@
 		(uuid "71ca6d56-2fdc-4d8d-b139-a0c32fa69bcb")
 	)
 	(label "SCL"
-		(at 102.87 41.91 0)
+		(at 142.24 34.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3895,7 +4715,7 @@
 		(uuid "7abd32bf-a989-437c-89ac-25554f5aa40d")
 	)
 	(label "VDD"
-		(at 127 71.12 0)
+		(at 227.33 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3904,8 +4724,38 @@
 		)
 		(uuid "a3d366bb-c777-4a91-8e96-48568d1c7869")
 	)
+	(label "VDD"
+		(at 231.14 21.59 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cb03a51d-35fb-413a-984d-a8d81d9dacab")
+	)
+	(label "SCL"
+		(at 214.63 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e6eeb66e-5083-436e-91ff-9ec420eb3bf4")
+	)
 	(label "SDA"
-		(at 154.94 93.98 0)
+		(at 233.68 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fb03f144-7c18-4e5d-b87d-6395bb9d0f14")
+	)
+	(label "SDA"
+		(at 250.19 119.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3916,7 +4766,7 @@
 	)
 	(symbol
 		(lib_id "#dzdb:g_res/R-10k-0603")
-		(at 153.67 82.55 0)
+		(at 247.65 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3925,7 +4775,7 @@
 		(fields_autoplaced yes)
 		(uuid "00235a7b-764a-48ce-b710-19d96319f766")
 		(property "Reference" "R8"
-			(at 156.21 81.2799 0)
+			(at 250.19 109.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3934,7 +4784,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 156.21 83.8199 0)
+			(at 250.19 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3943,7 +4793,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 151.892 82.55 90)
+			(at 245.872 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3952,7 +4802,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/560112116005.pdf"
-			(at 153.67 82.55 0)
+			(at 247.65 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3961,7 +4811,7 @@
 			)
 		)
 		(property "Description" "Thick Film Resistors - SMD WRIS-RSKS 10 kOhms 1 % 0.1 W 0603"
-			(at 153.67 82.55 0)
+			(at 247.65 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3970,7 +4820,7 @@
 			)
 		)
 		(property "IPN" "R-10k-0603"
-			(at 153.67 82.55 0)
+			(at 247.65 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3979,7 +4829,7 @@
 			)
 		)
 		(property "MPN" "560112116005"
-			(at 153.67 82.55 0)
+			(at 247.65 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3988,7 +4838,7 @@
 			)
 		)
 		(property "Manufacturer" "Wurth Elektronik"
-			(at 153.67 82.55 0)
+			(at 247.65 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3997,7 +4847,7 @@
 			)
 		)
 		(property "Resistance" "10k"
-			(at 153.67 82.55 0)
+			(at 247.65 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4006,7 +4856,7 @@
 			)
 		)
 		(property "Power" "0.1 W"
-			(at 153.67 82.55 0)
+			(at 247.65 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4015,7 +4865,7 @@
 			)
 		)
 		(property "Material" "Thick film"
-			(at 153.67 82.55 0)
+			(at 247.65 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4024,7 +4874,7 @@
 			)
 		)
 		(property "Tolerance" "1 %"
-			(at 153.67 82.55 0)
+			(at 247.65 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4033,7 +4883,7 @@
 			)
 		)
 		(property "Supplier" "Mouser"
-			(at 153.67 82.55 0)
+			(at 247.65 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4042,7 +4892,7 @@
 			)
 		)
 		(property "SPN" "710-560112116005"
-			(at 153.67 82.55 0)
+			(at 247.65 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4051,7 +4901,7 @@
 			)
 		)
 		(property "LCSC" "CXXXXX"
-			(at 153.67 82.55 0)
+			(at 247.65 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4060,7 +4910,7 @@
 			)
 		)
 		(property "Comment" "lifecycle=Active; note=Auto-generated"
-			(at 153.67 82.55 0)
+			(at 247.65 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4085,7 +4935,7 @@
 	)
 	(symbol
 		(lib_id "#dzdb:g_res/R-100k-0603")
-		(at 105.41 82.55 0)
+		(at 208.28 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4094,7 +4944,7 @@
 		(fields_autoplaced yes)
 		(uuid "03cd9d3f-592a-49c4-97b2-10cc7773d13d")
 		(property "Reference" "R10"
-			(at 107.95 81.2799 0)
+			(at 210.82 107.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4103,7 +4953,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 107.95 83.8199 0)
+			(at 210.82 110.4899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4112,7 +4962,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 103.632 82.55 90)
+			(at 206.502 109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4121,7 +4971,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/560112116004.pdf"
-			(at 105.41 82.55 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4130,7 +4980,7 @@
 			)
 		)
 		(property "Description" "Thick Film Resistors - SMD WRIS-RSKS 100 kOhms 1 % 0.1 W 0603"
-			(at 105.41 82.55 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4139,7 +4989,7 @@
 			)
 		)
 		(property "IPN" "R-100k-0603"
-			(at 105.41 82.55 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4148,7 +4998,7 @@
 			)
 		)
 		(property "MPN" "560112116004"
-			(at 105.41 82.55 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4157,7 +5007,7 @@
 			)
 		)
 		(property "Manufacturer" "Wurth Elektronik"
-			(at 105.41 82.55 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4166,7 +5016,7 @@
 			)
 		)
 		(property "Resistance" "100k"
-			(at 105.41 82.55 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4175,7 +5025,7 @@
 			)
 		)
 		(property "Power" "0.1 W"
-			(at 105.41 82.55 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4184,7 +5034,7 @@
 			)
 		)
 		(property "Material" "Thick film"
-			(at 105.41 82.55 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4193,7 +5043,7 @@
 			)
 		)
 		(property "Tolerance" "1 %"
-			(at 105.41 82.55 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4202,7 +5052,7 @@
 			)
 		)
 		(property "Supplier" "Mouser"
-			(at 105.41 82.55 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4211,7 +5061,7 @@
 			)
 		)
 		(property "SPN" "710-560112116004"
-			(at 105.41 82.55 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4220,7 +5070,7 @@
 			)
 		)
 		(property "LCSC" "CXXXXX"
-			(at 105.41 82.55 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4229,7 +5079,7 @@
 			)
 		)
 		(property "Comment" "lifecycle=Active; note=Auto-generated"
-			(at 105.41 82.55 0)
+			(at 208.28 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4254,7 +5104,7 @@
 	)
 	(symbol
 		(lib_id "#dzdb:g_res/R-10k-0603")
-		(at 118.11 48.26 0)
+		(at 157.48 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4263,7 +5113,7 @@
 		(fields_autoplaced yes)
 		(uuid "041c50ec-3581-44d7-ac20-08c4d2be989f")
 		(property "Reference" "R5"
-			(at 120.65 46.9899 0)
+			(at 160.02 39.3699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4272,7 +5122,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 120.65 49.5299 0)
+			(at 160.02 41.9099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4281,7 +5131,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 116.332 48.26 90)
+			(at 155.702 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4290,7 +5140,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/560112116005.pdf"
-			(at 118.11 48.26 0)
+			(at 157.48 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4299,7 +5149,7 @@
 			)
 		)
 		(property "Description" "Thick Film Resistors - SMD WRIS-RSKS 10 kOhms 1 % 0.1 W 0603"
-			(at 118.11 48.26 0)
+			(at 157.48 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4308,7 +5158,7 @@
 			)
 		)
 		(property "IPN" "R-10k-0603"
-			(at 118.11 48.26 0)
+			(at 157.48 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4317,7 +5167,7 @@
 			)
 		)
 		(property "MPN" "560112116005"
-			(at 118.11 48.26 0)
+			(at 157.48 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4326,7 +5176,7 @@
 			)
 		)
 		(property "Manufacturer" "Wurth Elektronik"
-			(at 118.11 48.26 0)
+			(at 157.48 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4335,7 +5185,7 @@
 			)
 		)
 		(property "Resistance" "10k"
-			(at 118.11 48.26 0)
+			(at 157.48 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4344,7 +5194,7 @@
 			)
 		)
 		(property "Power" "0.1 W"
-			(at 118.11 48.26 0)
+			(at 157.48 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4353,7 +5203,7 @@
 			)
 		)
 		(property "Material" "Thick film"
-			(at 118.11 48.26 0)
+			(at 157.48 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4362,7 +5212,7 @@
 			)
 		)
 		(property "Tolerance" "1 %"
-			(at 118.11 48.26 0)
+			(at 157.48 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4371,7 +5221,7 @@
 			)
 		)
 		(property "Supplier" "Mouser"
-			(at 118.11 48.26 0)
+			(at 157.48 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4380,7 +5230,7 @@
 			)
 		)
 		(property "SPN" "710-560112116005"
-			(at 118.11 48.26 0)
+			(at 157.48 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4389,7 +5239,7 @@
 			)
 		)
 		(property "LCSC" "CXXXXX"
-			(at 118.11 48.26 0)
+			(at 157.48 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4398,7 +5248,7 @@
 			)
 		)
 		(property "Comment" "lifecycle=Active; note=Auto-generated"
-			(at 118.11 48.26 0)
+			(at 157.48 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4422,17 +5272,17 @@
 		)
 	)
 	(symbol
-		(lib_id "#dzdb:g_res/R-10k-0603")
-		(at 146.05 82.55 0)
+		(lib_id "#dzdb:g_cap/C-100n-0201")
+		(at 212.09 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "31d26d77-42ee-4e5f-a819-518301e1b46c")
-		(property "Reference" "R7"
-			(at 148.59 81.2799 0)
+		(uuid "04c3f4ed-ce38-44ea-a273-28afd958ce4e")
+		(property "Reference" "C3"
+			(at 215.9 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4440,8 +5290,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
-			(at 148.59 83.8199 0)
+		(property "Value" "100nF"
+			(at 215.9 59.6899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4449,8 +5299,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 144.272 82.55 90)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 213.0552 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4458,8 +5308,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/560112116005.pdf"
-			(at 146.05 82.55 0)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM033R61A104ME15%23"
+			(at 212.09 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4467,8 +5317,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistors - SMD WRIS-RSKS 10 kOhms 1 % 0.1 W 0603"
-			(at 146.05 82.55 0)
+		(property "Description" "Cap 100nF 10V 0201 X5R ±20%"
+			(at 212.09 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4476,8 +5326,8 @@
 				(hide yes)
 			)
 		)
-		(property "IPN" "R-10k-0603"
-			(at 146.05 82.55 0)
+		(property "IPN" "C-100n-0201"
+			(at 212.09 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4485,8 +5335,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "560112116005"
-			(at 146.05 82.55 0)
+		(property "MPN" "GRM033R61A104ME15"
+			(at 212.09 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4494,8 +5344,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Wurth Elektronik"
-			(at 146.05 82.55 0)
+		(property "Manufacturer" "Murata"
+			(at 212.09 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4503,8 +5353,8 @@
 				(hide yes)
 			)
 		)
-		(property "Resistance" "10k"
-			(at 146.05 82.55 0)
+		(property "Capacitance" "100nF"
+			(at 212.09 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4512,8 +5362,8 @@
 				(hide yes)
 			)
 		)
-		(property "Power" "0.1 W"
-			(at 146.05 82.55 0)
+		(property "Voltage" "10V"
+			(at 212.09 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4521,8 +5371,8 @@
 				(hide yes)
 			)
 		)
-		(property "Material" "Thick film"
-			(at 146.05 82.55 0)
+		(property "Material" "X5R"
+			(at 212.09 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4530,8 +5380,8 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "1 %"
-			(at 146.05 82.55 0)
+		(property "Tolerance" "20%"
+			(at 212.09 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4540,7 +5390,176 @@
 			)
 		)
 		(property "Supplier" "Mouser"
-			(at 146.05 82.55 0)
+			(at 212.09 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "81-GRM033R61A104ME5D"
+			(at 212.09 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 212.09 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "lifecycle=Active"
+			(at 212.09 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d91d95c5-1ad2-4098-a646-33defc8c84f2")
+		)
+		(pin "2"
+			(uuid "2cc56fb9-c017-463d-985f-5734169f93a6")
+		)
+		(instances
+			(project ""
+				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "#dzdb:g_res/R-10k-0603")
+		(at 241.3 102.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "31d26d77-42ee-4e5f-a819-518301e1b46c")
+		(property "Reference" "R7"
+			(at 243.84 101.5999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 243.84 104.1399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 239.522 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/560112116005.pdf"
+			(at 241.3 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Thick Film Resistors - SMD WRIS-RSKS 10 kOhms 1 % 0.1 W 0603"
+			(at 241.3 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IPN" "R-10k-0603"
+			(at 241.3 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "560112116005"
+			(at 241.3 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth Elektronik"
+			(at 241.3 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Resistance" "10k"
+			(at 241.3 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power" "0.1 W"
+			(at 241.3 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Material" "Thick film"
+			(at 241.3 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1 %"
+			(at 241.3 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 241.3 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4549,7 +5568,7 @@
 			)
 		)
 		(property "SPN" "710-560112116005"
-			(at 146.05 82.55 0)
+			(at 241.3 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4558,7 +5577,7 @@
 			)
 		)
 		(property "LCSC" "CXXXXX"
-			(at 146.05 82.55 0)
+			(at 241.3 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4567,7 +5586,7 @@
 			)
 		)
 		(property "Comment" "lifecycle=Active; note=Auto-generated"
-			(at 146.05 82.55 0)
+			(at 241.3 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4761,7 +5780,7 @@
 	)
 	(symbol
 		(lib_id "#dzdb:s_sens/D-SENS-SHT40-AD1F-R2")
-		(at 128.27 39.37 0)
+		(at 167.64 31.75 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4770,7 +5789,7 @@
 		(dnp no)
 		(uuid "45c9400e-1f00-45dd-907e-ec9822b82bad")
 		(property "Reference" "U1"
-			(at 134.62 40.6401 0)
+			(at 173.99 33.0201 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4779,7 +5798,7 @@
 			)
 		)
 		(property "Value" "SHT45-AD1B"
-			(at 123.952 29.972 0)
+			(at 163.322 22.352 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4788,7 +5807,7 @@
 			)
 		)
 		(property "Footprint" "Sensor_Humidity:Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad"
-			(at 132.08 33.02 0)
+			(at 171.45 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4798,7 +5817,7 @@
 			)
 		)
 		(property "Datasheet" "https://sensirion.com/media/documents/33FD6951/67EB9032/HT_DS_Datasheet_SHT4x_5.pdf"
-			(at 132.08 30.48 0)
+			(at 171.45 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4808,7 +5827,7 @@
 			)
 		)
 		(property "Description" "Board Mount Humidity Sensors Digital Humidity and Temperature Sensor incl Filter Membrane"
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4817,7 +5836,7 @@
 			)
 		)
 		(property "IPN" "D-SENS-SHT40-AD1F-R2"
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4826,7 +5845,7 @@
 			)
 		)
 		(property "MPN" "SHT40-AD1F-R2"
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4835,7 +5854,7 @@
 			)
 		)
 		(property "Manufacturer" "Sensirion"
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4844,7 +5863,7 @@
 			)
 		)
 		(property "Type" "Temperature/Humidity"
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4853,7 +5872,7 @@
 			)
 		)
 		(property "Channels" "1"
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4862,7 +5881,7 @@
 			)
 		)
 		(property "Vin Range" "1.08V -3.6V"
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4871,7 +5890,7 @@
 			)
 		)
 		(property "Output" ""
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4880,7 +5899,7 @@
 			)
 		)
 		(property "Current" ""
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4889,7 +5908,7 @@
 			)
 		)
 		(property "Features" ""
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4898,7 +5917,7 @@
 			)
 		)
 		(property "Protection" ""
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4907,7 +5926,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4916,7 +5935,7 @@
 			)
 		)
 		(property "Temp Range" ""
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4925,7 +5944,7 @@
 			)
 		)
 		(property "Supplier" "Mouser"
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4934,7 +5953,7 @@
 			)
 		)
 		(property "SPN" "403-SHT40-AD1F-R2"
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4943,7 +5962,7 @@
 			)
 		)
 		(property "LCSC" "CXXXXX"
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4952,7 +5971,7 @@
 			)
 		)
 		(property "Comment" "lifecycle=Active;"
-			(at 128.27 39.37 0)
+			(at 167.64 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4982,35 +6001,43 @@
 		)
 	)
 	(symbol
-		(lib_id "#dzdb:g_res/R-10k-0603")
-		(at 175.26 91.44 0)
+		(lib_id "#dzdb:s_sens/D-BOSCH-BMP581")
+		(at 218.44 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "6a8d5b9a-f372-4397-9562-a72a8090a5a9")
-		(property "Reference" "R9"
-			(at 177.8 90.1699 0)
+		(uuid "65805f49-2849-444c-918f-e8d2f9142ffb")
+		(property "Reference" "U4"
+			(at 248.92 40.9192 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "10k"
-			(at 177.8 92.7099 0)
+		(property "Value" "BMP581"
+			(at 248.92 43.4592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 173.482 91.44 90)
+		(property "Footprint" "dz_sens:BMP581"
+			(at 218.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmp581-ds004.pdf"
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5018,8 +6045,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/560112116005.pdf"
-			(at 175.26 91.44 0)
+		(property "Description" "Barometric Pressure Sensor"
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5027,8 +6054,138 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistors - SMD WRIS-RSKS 10 kOhms 1 % 0.1 W 0603"
-			(at 175.26 91.44 0)
+		(property "Manufacturer_Name" ""
+			(at 218.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 218.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 218.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 218.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 218.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 218.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 218.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 218.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 218.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow_Price-Stock" ""
+			(at 218.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow_Part_Number" ""
+			(at 218.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 218.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 228.854 43.688 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "IPN" "D-BOSCH-BMP581"
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5036,8 +6193,8 @@
 				(hide yes)
 			)
 		)
-		(property "IPN" "R-10k-0603"
-			(at 175.26 91.44 0)
+		(property "MPN" "BMP581"
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5045,8 +6202,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "560112116005"
-			(at 175.26 91.44 0)
+		(property "Manufacturer" "Bosch Sensortec"
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5054,8 +6211,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Wurth Elektronik"
-			(at 175.26 91.44 0)
+		(property "Type" "Pressure"
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5063,8 +6220,8 @@
 				(hide yes)
 			)
 		)
-		(property "Resistance" "10k"
-			(at 175.26 91.44 0)
+		(property "Channels" "1"
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5072,8 +6229,8 @@
 				(hide yes)
 			)
 		)
-		(property "Power" "0.1 W"
-			(at 175.26 91.44 0)
+		(property "Vin Range" "1.71V-3.6V"
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5081,8 +6238,8 @@
 				(hide yes)
 			)
 		)
-		(property "Material" "Thick film"
-			(at 175.26 91.44 0)
+		(property "Output" ""
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5090,8 +6247,35 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "1 %"
-			(at 175.26 91.44 0)
+		(property "Current" ""
+			(at 218.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Features" ""
+			(at 218.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Protection" ""
+			(at 218.44 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temp Range" ""
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5100,7 +6284,7 @@
 			)
 		)
 		(property "Supplier" "Mouser"
-			(at 175.26 91.44 0)
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5108,8 +6292,8 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "710-560112116005"
-			(at 175.26 91.44 0)
+		(property "SPN" "733-BMP581"
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5117,8 +6301,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "CXXXXX"
-			(at 175.26 91.44 0)
+		(property "LCSC" "C5362283"
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5126,25 +6310,49 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "lifecycle=Active; note=Auto-generated"
-			(at 175.26 91.44 0)
+		(property "Comment" ""
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "2"
-			(uuid "e7f4a2a0-9925-4066-866f-52bc96d39f0a")
 		)
 		(pin "1"
-			(uuid "8303e763-5eac-4f28-b085-6e13b8f9103e")
+			(uuid "a018653a-49b5-49da-8fc7-eba04c3d30ba")
+		)
+		(pin "8"
+			(uuid "525c08ce-94f3-44e1-9a2c-56cb5ec6cada")
+		)
+		(pin "5"
+			(uuid "850035d8-94a9-4537-901b-0a5458e923fe")
+		)
+		(pin "10"
+			(uuid "4a05c5d3-30e4-40c7-91c0-830c8d844c19")
+		)
+		(pin "7"
+			(uuid "40941c93-87ec-4596-90f9-c5c78df7b7bf")
+		)
+		(pin "2"
+			(uuid "eaf789cd-2aa2-4c7c-9236-13150131b2c9")
+		)
+		(pin "3"
+			(uuid "897330c0-a59b-42d7-b21a-9a10e2d67384")
+		)
+		(pin "9"
+			(uuid "8205c25d-10c3-4e7b-94d8-5a415318a6df")
+		)
+		(pin "4"
+			(uuid "46d272db-9485-4084-b589-777ecd3d7a68")
+		)
+		(pin "6"
+			(uuid "692eaab7-83e9-4e8c-adac-2b637be30ccf")
 		)
 		(instances
-			(project "sensor_pcb"
+			(project ""
 				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b"
-					(reference "R9")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -5152,7 +6360,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 152.4 31.75 90)
+		(at 191.77 24.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5160,7 +6368,7 @@
 		(dnp no)
 		(uuid "7194c202-4bab-42e0-a8ec-bb3031f90db4")
 		(property "Reference" "#PWR02"
-			(at 158.75 31.75 0)
+			(at 198.12 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5169,7 +6377,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 156.21 31.7499 90)
+			(at 195.58 24.1299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5178,7 +6386,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 152.4 31.75 0)
+			(at 191.77 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5187,7 +6395,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.4 31.75 0)
+			(at 191.77 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5196,7 +6404,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 152.4 31.75 0)
+			(at 191.77 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5450,17 +6658,17 @@
 		)
 	)
 	(symbol
-		(lib_id "#dzdb:g_res/R-10k-0603")
-		(at 110.49 48.26 0)
+		(lib_id "#dzdb:g_cap/C-100n-0201")
+		(at 209.55 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8e747349-c43c-4d5d-8ae5-46f972c8019f")
-		(property "Reference" "R6"
-			(at 113.03 46.9899 0)
+		(uuid "8d2445b3-85d0-4b45-b931-048d807dc819")
+		(property "Reference" "C4"
+			(at 213.36 36.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5468,8 +6676,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
-			(at 113.03 49.5299 0)
+		(property "Value" "100nF"
+			(at 213.36 39.3699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5477,8 +6685,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 108.712 48.26 90)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 210.5152 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5486,8 +6694,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/560112116005.pdf"
-			(at 110.49 48.26 0)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM033R61A104ME15%23"
+			(at 209.55 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5495,8 +6703,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistors - SMD WRIS-RSKS 10 kOhms 1 % 0.1 W 0603"
-			(at 110.49 48.26 0)
+		(property "Description" "Cap 100nF 10V 0201 X5R ±20%"
+			(at 209.55 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5504,8 +6712,8 @@
 				(hide yes)
 			)
 		)
-		(property "IPN" "R-10k-0603"
-			(at 110.49 48.26 0)
+		(property "IPN" "C-100n-0201"
+			(at 209.55 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5513,8 +6721,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "560112116005"
-			(at 110.49 48.26 0)
+		(property "MPN" "GRM033R61A104ME15"
+			(at 209.55 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5522,8 +6730,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Wurth Elektronik"
-			(at 110.49 48.26 0)
+		(property "Manufacturer" "Murata"
+			(at 209.55 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5531,8 +6739,8 @@
 				(hide yes)
 			)
 		)
-		(property "Resistance" "10k"
-			(at 110.49 48.26 0)
+		(property "Capacitance" "100nF"
+			(at 209.55 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5540,8 +6748,8 @@
 				(hide yes)
 			)
 		)
-		(property "Power" "0.1 W"
-			(at 110.49 48.26 0)
+		(property "Voltage" "10V"
+			(at 209.55 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5549,8 +6757,8 @@
 				(hide yes)
 			)
 		)
-		(property "Material" "Thick film"
-			(at 110.49 48.26 0)
+		(property "Material" "X5R"
+			(at 209.55 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5558,8 +6766,8 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "1 %"
-			(at 110.49 48.26 0)
+		(property "Tolerance" "20%"
+			(at 209.55 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5568,7 +6776,176 @@
 			)
 		)
 		(property "Supplier" "Mouser"
-			(at 110.49 48.26 0)
+			(at 209.55 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "81-GRM033R61A104ME5D"
+			(at 209.55 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 209.55 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "lifecycle=Active"
+			(at 209.55 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9f4bc3b7-673e-4604-822a-6ba691f49af6")
+		)
+		(pin "2"
+			(uuid "3f616dc7-1084-4bd6-a4ca-cbe8c9d1b435")
+		)
+		(instances
+			(project "sensor_pcb"
+				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "#dzdb:g_res/R-10k-0603")
+		(at 149.86 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8e747349-c43c-4d5d-8ae5-46f972c8019f")
+		(property "Reference" "R6"
+			(at 152.4 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 152.4 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 148.082 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/560112116005.pdf"
+			(at 149.86 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Thick Film Resistors - SMD WRIS-RSKS 10 kOhms 1 % 0.1 W 0603"
+			(at 149.86 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IPN" "R-10k-0603"
+			(at 149.86 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "560112116005"
+			(at 149.86 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth Elektronik"
+			(at 149.86 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Resistance" "10k"
+			(at 149.86 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power" "0.1 W"
+			(at 149.86 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Material" "Thick film"
+			(at 149.86 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1 %"
+			(at 149.86 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 149.86 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5577,7 +6954,7 @@
 			)
 		)
 		(property "SPN" "710-560112116005"
-			(at 110.49 48.26 0)
+			(at 149.86 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5586,7 +6963,7 @@
 			)
 		)
 		(property "LCSC" "CXXXXX"
-			(at 110.49 48.26 0)
+			(at 149.86 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5595,7 +6972,7 @@
 			)
 		)
 		(property "Comment" "lifecycle=Active; note=Auto-generated"
-			(at 110.49 48.26 0)
+			(at 149.86 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5620,16 +6997,15 @@
 	)
 	(symbol
 		(lib_id "#dzdb:s_misc/IC-ADC-ADS1115-MSOP")
-		(at 127 91.44 0)
+		(at 227.33 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "91aeb7b5-d313-4455-95f7-7ba23553a423")
 		(property "Reference" "U2"
-			(at 129.1433 76.2 0)
+			(at 228.6 103.378 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5638,7 +7014,7 @@
 			)
 		)
 		(property "Value" "16-bit ADC"
-			(at 129.1433 78.74 0)
+			(at 228.346 105.156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5647,7 +7023,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:VSSOP-10_3x3mm_P0.5mm"
-			(at 127 104.14 0)
+			(at 227.33 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5656,7 +7032,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/ads1115.pdf"
-			(at 125.73 114.3 0)
+			(at 226.06 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5665,7 +7041,7 @@
 			)
 		)
 		(property "Description" "16-bit 860SPS ADC with PGA and I²C interface"
-			(at 127 91.44 0)
+			(at 227.33 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5674,7 +7050,7 @@
 			)
 		)
 		(property "IPN" "IC-ADC-ADS1115-MSOP"
-			(at 127 91.44 0)
+			(at 227.33 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5683,7 +7059,7 @@
 			)
 		)
 		(property "MPN" "ADS1115IDGS"
-			(at 127 91.44 0)
+			(at 227.33 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5692,7 +7068,7 @@
 			)
 		)
 		(property "Manufacturer" "Texas Instruments"
-			(at 127 91.44 0)
+			(at 227.33 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5701,7 +7077,7 @@
 			)
 		)
 		(property "Symbol" "Analog_ADC:ADS1115IDGS"
-			(at 127 91.44 0)
+			(at 227.33 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5710,7 +7086,7 @@
 			)
 		)
 		(property "Type" "ADC"
-			(at 127 91.44 0)
+			(at 227.33 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5719,7 +7095,7 @@
 			)
 		)
 		(property "Supplier" "Mouser"
-			(at 127 91.44 0)
+			(at 227.33 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5728,7 +7104,7 @@
 			)
 		)
 		(property "SPN" "595-ADS1115IDGSR"
-			(at 127 91.44 0)
+			(at 227.33 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5737,7 +7113,7 @@
 			)
 		)
 		(property "LCSC" "C37593"
-			(at 127 91.44 0)
+			(at 227.33 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5746,7 +7122,7 @@
 			)
 		)
 		(property "Comment" "Programmable gain"
-			(at 127 91.44 0)
+			(at 227.33 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5795,7 +7171,7 @@
 	)
 	(symbol
 		(lib_id "#dzdb:g_res/R-100k-0603")
-		(at 105.41 99.06 0)
+		(at 208.28 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5804,7 +7180,7 @@
 		(fields_autoplaced yes)
 		(uuid "9ab7f26b-a659-4512-b9e6-77b97311ea61")
 		(property "Reference" "R11"
-			(at 107.95 97.7899 0)
+			(at 210.82 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5813,7 +7189,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 107.95 100.3299 0)
+			(at 210.82 119.3799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5822,7 +7198,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 103.632 99.06 90)
+			(at 206.502 118.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5831,7 +7207,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/560112116004.pdf"
-			(at 105.41 99.06 0)
+			(at 208.28 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5840,7 +7216,7 @@
 			)
 		)
 		(property "Description" "Thick Film Resistors - SMD WRIS-RSKS 100 kOhms 1 % 0.1 W 0603"
-			(at 105.41 99.06 0)
+			(at 208.28 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5849,7 +7225,7 @@
 			)
 		)
 		(property "IPN" "R-100k-0603"
-			(at 105.41 99.06 0)
+			(at 208.28 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5858,7 +7234,7 @@
 			)
 		)
 		(property "MPN" "560112116004"
-			(at 105.41 99.06 0)
+			(at 208.28 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5867,7 +7243,7 @@
 			)
 		)
 		(property "Manufacturer" "Wurth Elektronik"
-			(at 105.41 99.06 0)
+			(at 208.28 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5876,7 +7252,7 @@
 			)
 		)
 		(property "Resistance" "100k"
-			(at 105.41 99.06 0)
+			(at 208.28 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5885,7 +7261,7 @@
 			)
 		)
 		(property "Power" "0.1 W"
-			(at 105.41 99.06 0)
+			(at 208.28 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5894,7 +7270,7 @@
 			)
 		)
 		(property "Material" "Thick film"
-			(at 105.41 99.06 0)
+			(at 208.28 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5903,7 +7279,7 @@
 			)
 		)
 		(property "Tolerance" "1 %"
-			(at 105.41 99.06 0)
+			(at 208.28 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5912,7 +7288,7 @@
 			)
 		)
 		(property "Supplier" "Mouser"
-			(at 105.41 99.06 0)
+			(at 208.28 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5921,7 +7297,7 @@
 			)
 		)
 		(property "SPN" "710-560112116004"
-			(at 105.41 99.06 0)
+			(at 208.28 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5930,7 +7306,7 @@
 			)
 		)
 		(property "LCSC" "CXXXXX"
-			(at 105.41 99.06 0)
+			(at 208.28 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5939,7 +7315,7 @@
 			)
 		)
 		(property "Comment" "lifecycle=Active; note=Auto-generated"
-			(at 105.41 99.06 0)
+			(at 208.28 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5964,7 +7340,7 @@
 	)
 	(symbol
 		(lib_id "#dzdb:g_cap/C-100n-0201")
-		(at 149.86 38.1 0)
+		(at 189.23 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5973,7 +7349,7 @@
 		(fields_autoplaced yes)
 		(uuid "a6eb66ac-1051-46ac-878c-8f799513c465")
 		(property "Reference" "C1"
-			(at 153.67 36.8299 0)
+			(at 193.04 29.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5982,7 +7358,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 153.67 39.3699 0)
+			(at 193.04 31.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5991,7 +7367,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 150.8252 41.91 0)
+			(at 190.1952 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6000,7 +7376,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM033R61A104ME15%23"
-			(at 149.86 38.1 0)
+			(at 189.23 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6009,7 +7385,7 @@
 			)
 		)
 		(property "Description" "Cap 100nF 10V 0201 X5R ±20%"
-			(at 149.86 38.1 0)
+			(at 189.23 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6018,7 +7394,7 @@
 			)
 		)
 		(property "IPN" "C-100n-0201"
-			(at 149.86 38.1 0)
+			(at 189.23 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6027,7 +7403,7 @@
 			)
 		)
 		(property "MPN" "GRM033R61A104ME15"
-			(at 149.86 38.1 0)
+			(at 189.23 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6036,7 +7412,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 149.86 38.1 0)
+			(at 189.23 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6045,7 +7421,7 @@
 			)
 		)
 		(property "Capacitance" "100nF"
-			(at 149.86 38.1 0)
+			(at 189.23 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6054,7 +7430,7 @@
 			)
 		)
 		(property "Voltage" "10V"
-			(at 149.86 38.1 0)
+			(at 189.23 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6063,7 +7439,7 @@
 			)
 		)
 		(property "Material" "X5R"
-			(at 149.86 38.1 0)
+			(at 189.23 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6072,7 +7448,7 @@
 			)
 		)
 		(property "Tolerance" "20%"
-			(at 149.86 38.1 0)
+			(at 189.23 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6081,7 +7457,7 @@
 			)
 		)
 		(property "Supplier" "Mouser"
-			(at 149.86 38.1 0)
+			(at 189.23 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6090,7 +7466,7 @@
 			)
 		)
 		(property "SPN" "81-GRM033R61A104ME5D"
-			(at 149.86 38.1 0)
+			(at 189.23 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6099,7 +7475,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 149.86 38.1 0)
+			(at 189.23 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6108,7 +7484,7 @@
 			)
 		)
 		(property "Comment" "lifecycle=Active"
-			(at 149.86 38.1 0)
+			(at 189.23 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6797,16 +8173,15 @@
 	)
 	(symbol
 		(lib_id "#dzdb:g_cap/C-100n-0402")
-		(at 165.1 90.17 0)
+		(at 255.27 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cf7e32b0-f5b9-4786-8576-c41ad29c2dce")
 		(property "Reference" "C2"
-			(at 168.91 88.8999 0)
+			(at 259.08 101.5999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6815,7 +8190,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 168.91 91.4399 0)
+			(at 259.08 104.1399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6824,7 +8199,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 166.0652 93.98 0)
+			(at 256.2352 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6833,7 +8208,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61A104KA01D"
-			(at 165.1 90.17 0)
+			(at 255.27 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6842,7 +8217,7 @@
 			)
 		)
 		(property "Description" "Cap 100nF 50V 0402 X5R ±10%"
-			(at 165.1 90.17 0)
+			(at 255.27 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6851,7 +8226,7 @@
 			)
 		)
 		(property "IPN" "C-100n-0402"
-			(at 165.1 90.17 0)
+			(at 255.27 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6860,7 +8235,7 @@
 			)
 		)
 		(property "MPN" "GRM155R61H104KE19"
-			(at 165.1 90.17 0)
+			(at 255.27 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6869,7 +8244,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 165.1 90.17 0)
+			(at 255.27 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6878,7 +8253,7 @@
 			)
 		)
 		(property "Capacitance" "100nF"
-			(at 165.1 90.17 0)
+			(at 255.27 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6887,7 +8262,7 @@
 			)
 		)
 		(property "Voltage" "50V"
-			(at 165.1 90.17 0)
+			(at 255.27 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6896,7 +8271,7 @@
 			)
 		)
 		(property "Material" "X5R"
-			(at 165.1 90.17 0)
+			(at 255.27 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6905,7 +8280,7 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 165.1 90.17 0)
+			(at 255.27 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6914,7 +8289,7 @@
 			)
 		)
 		(property "Supplier" "Mouser"
-			(at 165.1 90.17 0)
+			(at 255.27 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6923,7 +8298,7 @@
 			)
 		)
 		(property "SPN" "81-GRM155R61H104KE9D"
-			(at 165.1 90.17 0)
+			(at 255.27 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6932,7 +8307,7 @@
 			)
 		)
 		(property "LCSC" "C105882"
-			(at 165.1 90.17 0)
+			(at 255.27 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6941,7 +8316,7 @@
 			)
 		)
 		(property "Comment" "lifecycle=Active"
-			(at 165.1 90.17 0)
+			(at 255.27 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6966,7 +8341,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 127 109.22 0)
+		(at 227.33 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6974,7 +8349,7 @@
 		(dnp no)
 		(uuid "f23de25b-251d-46d0-b97b-f576b2480e6e")
 		(property "Reference" "#PWR03"
-			(at 127 115.57 0)
+			(at 227.33 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6983,7 +8358,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 127 113.03 0)
+			(at 227.33 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6991,7 +8366,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 127 109.22 0)
+			(at 227.33 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7000,7 +8375,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 109.22 0)
+			(at 227.33 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7009,7 +8384,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 127 109.22 0)
+			(at 227.33 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7025,6 +8400,114 @@
 				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b"
 					(reference "#PWR03")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 231.14 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f5e8a80e-f37f-4009-894c-292a0245029d")
+		(property "Reference" "#PWR04"
+			(at 231.14 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 231.14 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 231.14 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 231.14 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 231.14 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f654c13d-7903-4559-ab93-32de18097ac9")
+		)
+		(instances
+			(project ""
+				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 97.79 134.62)
+		(size 35.56 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3859b241-f7bb-42ef-9a3c-9dd0f4007456")
+		(property "Sheetname" "Leak_sensors"
+			(at 97.79 133.9084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "leak_sensors.kicad_sch"
+			(at 97.79 165.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "sensor_pcb"
+				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b"
+					(page "3")
 				)
 			)
 		)

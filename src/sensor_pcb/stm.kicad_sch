@@ -1400,6 +1400,108 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 48.26 91.44) (xy 54.61 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "025533b1-e7ca-438b-add6-0e31fdce7a68")
+	)
+	(wire
+		(pts
+			(xy 48.26 93.98) (xy 54.61 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b24cfde-bbc2-45aa-aa4a-2ad639a45b34")
+	)
+	(wire
+		(pts
+			(xy 48.26 88.9) (xy 54.61 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13ab1ad7-a039-463c-a128-c45739386d02")
+	)
+	(wire
+		(pts
+			(xy 48.26 96.52) (xy 54.61 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5916056a-26a7-4cc7-a033-849804c01eef")
+	)
+	(wire
+		(pts
+			(xy 48.26 101.6) (xy 54.61 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8176144a-560a-4d3c-bb57-4026c6f3e380")
+	)
+	(wire
+		(pts
+			(xy 48.26 99.06) (xy 54.61 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8b268a2-8dc2-4d46-b87d-c29c7b0fe5c1")
+	)
+	(wire
+		(pts
+			(xy 48.26 104.14) (xy 54.61 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba200f6a-04cd-41c0-8d99-b6ae46e1ad7e")
+	)
+	(wire
+		(pts
+			(xy 48.26 86.36) (xy 54.61 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0bafcd2-f649-4247-9748-7ec7ec7d05f4")
+	)
+	(hierarchical_label "ls 2"
+		(shape input)
+		(at 48.26 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "16608b23-e4bb-402c-b9ca-0d9df8b42ac9")
+	)
+	(hierarchical_label "ls 1"
+		(shape input)
+		(at 48.26 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "48e545f3-23e3-4994-a251-89744d9ff0cb")
+	)
 	(symbol
 		(lib_id "#dzdb:s_mcu/M-STM-STM32L451CET6")
 		(at 69.85 93.98 0)

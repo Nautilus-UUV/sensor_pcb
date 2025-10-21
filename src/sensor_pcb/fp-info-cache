@@ -1,4 +1,4 @@
-26199769705475066
+26219140932643223
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -104740,6 +104740,20 @@ capacitor
 0
 2
 2
+dz_comm
+MCP2562FD-HSN
+SO8
+Integrated Circuit
+0
+8
+8
+dz_comm
+TCAN3414DRBR
+DRB0008B
+Integrated Circuit
+0
+9
+9
 dz_con
 CON-DF40C-100DS-0.4V51
 
@@ -104853,6 +104867,13 @@ Untitled
 0
 0
 dz_con
+Untitled_1
+
+
+0
+0
+0
+dz_con
 Wuerth_WR_CIRCM_643280100305
 <b>WR-CIRCM12 Screw Mating Panel Connector Angled 90° Female Metal M12<br><br></b>THT, 5pins
 
@@ -104866,6 +104887,13 @@ Wuerth_WR_CIRCM_643280100308
 0
 9
 9
+dz_con
+Wurth_66200821022
+
+
+0
+8
+8
 dz_con
 Wurth_WR-MPC3_66200211022
 3.00 mm Male Header Single Row Right Angled with Snap-In Plastic Pegs – THT – Tin, body 9.65x9.9x8.75mm, https://www.we-online.com/en/components/products/datasheet/66200211022?ki
@@ -104886,6 +104914,13 @@ SOD-882, DFN1006-2, body 1.0 x 0.6 x 0.48mm, pitch 0.65mm, https://assets.nexper
 Diode SOD882 DFN1006-2
 0
 4
+2
+dz_dio
+SMF50ATP
+SMF5.0A-TP
+TVS Diode (Uni-directional)
+0
+2
 2
 dz_dio
 SOT65P210X110-5N
@@ -104950,6 +104985,13 @@ Connector
 0
 6
 6
+dz_mem
+ECS801828AXTR
+ECS-80-18-28AX-TR-3
+Crystal or Oscillator
+0
+4
+4
 dz_pwr
 BAT_BAT-HLD-011-THM
 
@@ -104965,12 +105007,47 @@ Integrated Circuit
 5
 5
 dz_pwr
+DRC0010J
+
+TPS63001DRCR 
+0
+15
+12
+dz_pwr
 LFCSP-8-1EP_3x3mm_P0.5mm_EP1.6x2.34mm
 LFCSP, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/CP_8_11.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 LFCSP NoLead
 0
 13
 9
+dz_pwr
+MXA20A
+
+LM5118MH/NOPB 
+0
+21
+21
+dz_pwr
+MXA20A-L
+
+LM5118MH/NOPB 
+0
+21
+21
+dz_pwr
+MXA20A-M
+
+LM5118MH/NOPB 
+0
+21
+21
+dz_pwr
+RDX0007A-MFG
+
+PTPSM863253RDXR 
+0
+19
+19
 dz_pwr
 SON50P160X120X60_5N_D
 SIP32432DNP3-T1GE4-1

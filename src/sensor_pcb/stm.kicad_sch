@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "60e29ace-a4b6-4349-9c19-da1c442c72e4")
 	(paper "A4")
+	(title_block
+		(title "Sensor_pcb: stm")
+		(date "2025-10-21")
+		(company "Giacomo Raggi")
+	)
 	(lib_symbols
 		(symbol "#dzdb:s_mcu/M-STM-STM32L451CET6"
 			(exclude_from_sim no)
@@ -1400,6 +1405,12 @@
 			(embedded_fonts no)
 		)
 	)
+	(junction
+		(at 72.39 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ccf970e3-4195-4476-950a-cd1366b1a91b")
+	)
 	(wire
 		(pts
 			(xy 48.26 91.44) (xy 54.61 91.44)
@@ -1432,6 +1443,26 @@
 	)
 	(wire
 		(pts
+			(xy 72.39 140.97) (xy 71.12 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18b70f88-d56f-4460-9d40-65ea01660abb")
+	)
+	(wire
+		(pts
+			(xy 72.39 132.08) (xy 72.39 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4043999c-0535-4c8f-b832-0b45a6fd8bf9")
+	)
+	(wire
+		(pts
 			(xy 48.26 96.52) (xy 54.61 96.52)
 		)
 		(stroke
@@ -1449,6 +1480,16 @@
 			(type default)
 		)
 		(uuid "8176144a-560a-4d3c-bb57-4026c6f3e380")
+	)
+	(wire
+		(pts
+			(xy 69.85 132.08) (xy 72.39 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ebb20ff-d5d8-449b-a13c-60a8e92e64d4")
 	)
 	(wire
 		(pts
@@ -1480,7 +1521,7 @@
 		)
 		(uuid "d0bafcd2-f649-4247-9748-7ec7ec7d05f4")
 	)
-	(hierarchical_label "ls 2"
+	(hierarchical_label "PB1"
 		(shape input)
 		(at 48.26 88.9 180)
 		(effects
@@ -1491,7 +1532,29 @@
 		)
 		(uuid "16608b23-e4bb-402c-b9ca-0d9df8b42ac9")
 	)
-	(hierarchical_label "ls 1"
+	(hierarchical_label "PA2"
+		(shape input)
+		(at 85.09 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1da47e87-f1f1-47a9-a950-9f36790b1b09")
+	)
+	(hierarchical_label "PA4"
+		(shape input)
+		(at 85.09 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "47c6b00c-67cc-416c-83bd-829ae9398ca9")
+	)
+	(hierarchical_label "PB0"
 		(shape input)
 		(at 48.26 86.36 180)
 		(effects
@@ -1501,6 +1564,72 @@
 			(justify right)
 		)
 		(uuid "48e545f3-23e3-4994-a251-89744d9ff0cb")
+	)
+	(hierarchical_label "PA5"
+		(shape input)
+		(at 85.09 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "496e6bd5-7e80-4ee1-83fb-01ca47852d9a")
+	)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 71.12 140.97 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9e18e911-3185-43b0-b703-12821f89f3b1")
+	)
+	(hierarchical_label "PA3"
+		(shape input)
+		(at 85.09 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cbea4449-3ae1-43f4-b4b6-387a8e7396f0")
+	)
+	(hierarchical_label "VDD"
+		(shape input)
+		(at 67.31 53.34 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e4f690e7-8736-4e88-8a25-a3d2a08ce353")
+	)
+	(hierarchical_label "PA0"
+		(shape input)
+		(at 85.09 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "eaf72c80-92a5-41ae-9c70-6f6b3b20d5f3")
+	)
+	(hierarchical_label "PA1"
+		(shape input)
+		(at 85.09 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ff403651-0b92-495f-a90e-6d230d65f687")
 	)
 	(symbol
 		(lib_id "#dzdb:s_mcu/M-STM-STM32L451CET6")

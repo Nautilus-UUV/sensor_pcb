@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "dab5a7d4-a197-4911-81dc-aa63950ea0a1")
 	(paper "A4")
+	(title_block
+		(title "Sensor_pcb: leak sensors")
+		(date "2025-10-21")
+		(company "Giacomo Raggi")
+	)
 	(lib_symbols
 		(symbol "#dzdb:g_res/R-1k-0603"
 			(pin_numbers

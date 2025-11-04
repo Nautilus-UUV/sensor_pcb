@@ -1637,7 +1637,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "#dzdb:s_con/CON-WUR-662004231722"
+		(symbol "#dzdb:s_con/CON-WUR-66200421024"
 			(pin_names
 				(offset 1.016)
 			)
@@ -1645,7 +1645,7 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "J"
-				(at 1.946 1.568 0)
+				(at 2.26 0.985 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1653,8 +1653,8 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "662004231722"
-				(at 2.286 0 0)
+			(property "Value" "66200421024"
+				(at 2.22 -1.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1662,7 +1662,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "dz_con:Wurth_662004231722"
+			(property "Footprint" "dz_con:Wurth_66200421024"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1672,7 +1672,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.we-online.com/components/products/datasheet/662004231722.pdf"
+			(property "Datasheet" "https://www.we-online.com/components/products/datasheet/66200421024.pdf"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1681,299 +1681,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "WR-MPC4 3.00mm Dual Row 4p Male Header Vertical TH"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "IPN" "CON-WUR-662004231722"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MPN" "662004231722"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Würth Elektronik"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Symbol" "dz_con:Wurth_662004231722"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Type" "Connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Pin Count" "4"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Pitch" "3.00mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier" "Mouser"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "SPN" "710-662004231722"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Comment" "lifecycle=Active; gender=Male; orientation=Vertical; current=5A; voltage=250V; features=Dual Row; note=WR-MPC4 series vertical through-hole male header"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "dz_con:Wurth_662004231722"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "s_con/CON-WUR-662004231722_0_0"
-				(rectangle
-					(start -3.81 -2.54)
-					(end 1.27 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -3.04 0.5)
-					(end -2.04 2.5)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -3.04 -2.5)
-					(end -2.04 -0.5)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -0.5 0.5)
-					(end 0.5 2.5)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -0.5 -2.5)
-					(end 0.5 -0.5)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(pin passive line
-					(at -2.54 5.08 270)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -5.08 90)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 5.08 270)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "#dzdb:s_con/CON-WUR-66200821022"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 7.34 0.985 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "66200821022"
-				(at 7.3 -1.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "dz_con:Wurth_66200821022"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.we-online.com/components/products/datasheet/66200821022.pdf"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "WR-MPC3 3.00mm Dual Row 8p Male Header Right Angle TH Pegs"
+			(property "Description" "WR-MPC3 Dual Row Male Header Right Angled GW THT"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2062,7 +1770,7 @@
 					(hide yes)
 				)
 			)
-			(property "IPN" "CON-WUR-66200821022"
+			(property "IPN" "CON-WUR-66200421024"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2071,7 +1779,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "66200821022"
+			(property "MPN" "66200421024"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2089,7 +1797,427 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol" "dz_con:Wurth_66200821022"
+			(property "Symbol" "dz_con:Wurth_66200421024"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Type" "Connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Pin Count" "4"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Pitch" "3.00mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier" "Wurth"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "SPN" "66200421024"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Comment" "lifecycle=Active; gender=Male; orientation=Right Angle; current=5A; voltage=250V; features=Dual Row Plastic Pegs; note=WR-MPC4 series right-angle through-hole male header"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "dz_con:Wurth_66200421024"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "s_con/CON-WUR-66200421024_0_0"
+				(rectangle
+					(start -3.81 -2.54)
+					(end 1.27 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center -2.54 1.27)
+					(radius 0.254)
+					(stroke
+						(width 0.635)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 1.27) (xy -2.54 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.54 -1.27)
+					(radius 0.254)
+					(stroke
+						(width 0.635)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -1.27) (xy -2.54 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 1.27)
+					(radius 0.254)
+					(stroke
+						(width 0.635)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.27)
+					(radius 0.254)
+					(stroke
+						(width 0.635)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -2.54 5.08 270)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -5.08 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "#dzdb:s_con/CON-WUR-66200821024"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 7.34 0.985 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "66200821024"
+				(at 7.3 -1.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "dz_con:Wurth_66200821024"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.we-online.com/components/products/datasheet/66200821024.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "WR-MPC3 Dual Row Male Header Right Angled GW THT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "IPN" "CON-WUR-66200821024"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "66200821024"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Würth Elektronik"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Symbol" "dz_con:Wurth_66200821024"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2125,7 +2253,7 @@
 					(hide yes)
 				)
 			)
-			(property "Supplier" "Mouser"
+			(property "Supplier" "Wurth"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2134,7 +2262,7 @@
 					(hide yes)
 				)
 			)
-			(property "SPN" "710-66200821022"
+			(property "SPN" "66200821024"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2152,7 +2280,7 @@
 					(hide yes)
 				)
 			)
-			(property "Comment" "lifecycle=Active; gender=Femaleale; orientation=Right Angle; current=5A; voltage=250V; features=Dual Row Plastic Pegs; note=WR-MPC3 series through hole"
+			(property "Comment" "lifecycle=Active; gender=Male; orientation=Vertical; current=5A; voltage=250V; features=Dual Row Plastic Pegs; note=WR-MPC3 series vertical through-hole male header"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2161,7 +2289,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "dz_con:Wurth_66200821022"
+			(property "ki_fp_filters" "dz_con:Wurth_66200821024"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2170,7 +2298,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "s_con/CON-WUR-66200821022_0_0"
+			(symbol "s_con/CON-WUR-66200821024_0_0"
 				(rectangle
 					(start -3.81 -2.54)
 					(end 6.35 2.54)
@@ -6388,272 +6516,6 @@
 		)
 	)
 	(symbol
-		(lib_id "#dzdb:s_con/CON-WUR-66200821022")
-		(at 111.76 77.47 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "24e22c78-1ac1-4ddf-b542-d328dfc50f4f")
-		(property "Reference" "J4"
-			(at 111.76 66.04 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "66200821022"
-			(at 111.76 68.58 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "dz_con:Wurth_66200821022"
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/66200821022.pdf"
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "WR-MPC3 3.00mm Dual Row 8p Male Header Right Angle TH Pegs"
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" ""
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" ""
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" ""
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" ""
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" ""
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "IPN" "CON-WUR-66200821022"
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "66200821022"
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Würth Elektronik"
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Symbol" "dz_con:Wurth_66200821022"
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" "Connector"
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Pin Count" "8"
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Pitch" "3.00mm"
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "Mouser"
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPN" "710-66200821022"
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" ""
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" "lifecycle=Active; gender=Femaleale; orientation=Right Angle; current=5A; voltage=250V; features=Dual Row Plastic Pegs; note=WR-MPC3 series through hole"
-			(at 111.76 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ddc82bd4-f6e6-4fcd-ad8e-3e345458bff5")
-		)
-		(pin "8"
-			(uuid "231f106e-bdad-41f2-a551-185139a2f32d")
-		)
-		(pin "7"
-			(uuid "c4ad9e8e-dcc5-4d5b-a16f-324b5cbcc04c")
-		)
-		(pin "3"
-			(uuid "1e122004-6e80-4adf-8ee4-8cc4797f867d")
-		)
-		(pin "4"
-			(uuid "f2db80b9-4c73-414c-af52-d2cabce6df77")
-		)
-		(pin "6"
-			(uuid "2c515e89-2daf-48a9-9a1e-d67e79d58804")
-		)
-		(pin "5"
-			(uuid "f34c36e6-4f1a-48be-b80e-572bee0dd56d")
-		)
-		(pin "1"
-			(uuid "426e0a52-cc3a-4a01-9431-7b1de9529053")
-		)
-		(instances
-			(project ""
-				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b"
-					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 54.61 50.8 0)
 		(unit 1)
@@ -8865,6 +8727,272 @@
 		)
 	)
 	(symbol
+		(lib_id "#dzdb:s_con/CON-WUR-66200821024")
+		(at 111.76 95.25 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9cd2ca7a-60cf-4bc6-a898-a54036e1ecb2")
+		(property "Reference" "J3"
+			(at 111.76 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "66200821024"
+			(at 111.76 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "dz_con:Wurth_66200821024"
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/66200821024.pdf"
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "WR-MPC3 Dual Row Male Header Right Angled GW THT"
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "IPN" "CON-WUR-66200821024"
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "66200821024"
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Würth Elektronik"
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol" "dz_con:Wurth_66200821024"
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Connector"
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "8"
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pitch" "3.00mm"
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Wurth"
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "66200821024"
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "lifecycle=Active; gender=Male; orientation=Vertical; current=5A; voltage=250V; features=Dual Row Plastic Pegs; note=WR-MPC3 series vertical through-hole male header"
+			(at 111.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "595c1106-a501-44ed-ae46-aac719a20cdd")
+		)
+		(pin "7"
+			(uuid "4c37dd66-39ce-4b5b-b9d4-a879bf72c9e9")
+		)
+		(pin "3"
+			(uuid "004ae37f-9d2f-47f6-8857-c3e783dffe47")
+		)
+		(pin "4"
+			(uuid "fbd56981-029a-44bc-89ea-c72462cb8aff")
+		)
+		(pin "6"
+			(uuid "f6c25544-36a7-4151-bb8d-2535cc0465d4")
+		)
+		(pin "2"
+			(uuid "e90560b0-e7e6-4f65-9263-5301384b6554")
+		)
+		(pin "5"
+			(uuid "8eb41742-dd92-46ff-bba3-6641689a0240")
+		)
+		(pin "1"
+			(uuid "c3b5f6b1-da65-4ee2-8339-d209d4046c7a")
+		)
+		(instances
+			(project ""
+				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 191.77 26.67 0)
 		(mirror x)
@@ -9101,7 +9229,263 @@
 		)
 	)
 	(symbol
-		(lib_id "#dzdb:s_con/CON-WUR-662004231722")
+		(lib_id "#dzdb:s_con/CON-WUR-66200421024")
+		(at 34.29 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a934eb3d-a075-4192-a647-6d0d37589db5")
+		(property "Reference" "J1"
+			(at 36.83 138.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "66200421024"
+			(at 36.83 140.9699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "dz_con:Wurth_66200421024"
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/66200421024.pdf"
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "WR-MPC3 Dual Row Male Header Right Angled GW THT"
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "IPN" "CON-WUR-66200421024"
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "66200421024"
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Würth Elektronik"
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol" "dz_con:Wurth_66200421024"
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "Connector"
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "4"
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Pitch" "3.00mm"
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Wurth"
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "66200421024"
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "lifecycle=Active; gender=Male; orientation=Right Angle; current=5A; voltage=250V; features=Dual Row Plastic Pegs; note=WR-MPC4 series right-angle through-hole male header"
+			(at 34.29 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e5d15d0b-b2a2-4199-9740-8b2ea1354631")
+		)
+		(pin "4"
+			(uuid "9338558e-a87f-45e6-a88b-56e3d7376c25")
+		)
+		(pin "1"
+			(uuid "731c49d9-7b19-491d-8d5d-e80b1656856a")
+		)
+		(pin "3"
+			(uuid "7264155d-c4cf-409c-b929-b3c92a261a52")
+		)
+		(instances
+			(project ""
+				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "#dzdb:s_con/CON-WUR-66200421024")
 		(at 214.63 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9109,8 +9493,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a9fca2af-4b0a-4dea-9230-94bd7fb0fe43")
-		(property "Reference" "J5"
+		(uuid "af5a636f-14bb-452e-a0d5-9ae79a340676")
+		(property "Reference" "J7"
 			(at 217.17 76.1999 0)
 			(effects
 				(font
@@ -9119,7 +9503,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "662004231722"
+		(property "Value" "66200421024"
 			(at 217.17 78.7399 0)
 			(effects
 				(font
@@ -9128,7 +9512,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "dz_con:Wurth_662004231722"
+		(property "Footprint" "dz_con:Wurth_66200421024"
 			(at 214.63 77.47 0)
 			(effects
 				(font
@@ -9138,7 +9522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/662004231722.pdf"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/66200421024.pdf"
 			(at 214.63 77.47 0)
 			(effects
 				(font
@@ -9147,7 +9531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "WR-MPC4 3.00mm Dual Row 4p Male Header Vertical TH"
+		(property "Description" "WR-MPC3 Dual Row Male Header Right Angled GW THT"
 			(at 214.63 77.47 0)
 			(effects
 				(font
@@ -9156,7 +9540,87 @@
 				(hide yes)
 			)
 		)
-		(property "IPN" "CON-WUR-662004231722"
+		(property "MF" ""
+			(at 214.63 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 214.63 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 214.63 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 214.63 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 214.63 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 214.63 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 214.63 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 214.63 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "IPN" "CON-WUR-66200421024"
 			(at 214.63 77.47 0)
 			(effects
 				(font
@@ -9165,7 +9629,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "662004231722"
+		(property "MPN" "66200421024"
 			(at 214.63 77.47 0)
 			(effects
 				(font
@@ -9183,7 +9647,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol" "dz_con:Wurth_662004231722"
+		(property "Symbol" "dz_con:Wurth_66200421024"
 			(at 214.63 77.47 0)
 			(effects
 				(font
@@ -9219,7 +9683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "Mouser"
+		(property "Supplier" "Wurth"
 			(at 214.63 77.47 0)
 			(effects
 				(font
@@ -9228,7 +9692,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "710-662004231722"
+		(property "SPN" "66200421024"
 			(at 214.63 77.47 0)
 			(effects
 				(font
@@ -9246,7 +9710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "lifecycle=Active; gender=Male; orientation=Vertical; current=5A; voltage=250V; features=Dual Row; note=WR-MPC4 series vertical through-hole male header"
+		(property "Comment" "lifecycle=Active; gender=Male; orientation=Right Angle; current=5A; voltage=250V; features=Dual Row Plastic Pegs; note=WR-MPC4 series right-angle through-hole male header"
 			(at 214.63 77.47 0)
 			(effects
 				(font
@@ -9255,55 +9719,55 @@
 				(hide yes)
 			)
 		)
-		(pin "2"
-			(uuid "09810d5c-bcc8-4717-a25e-2df6d9f0c9a2")
-		)
-		(pin "4"
-			(uuid "7380c1a0-737a-4de4-a13e-ba5c7b5595a5")
-		)
 		(pin "3"
-			(uuid "eb3a83ac-a8a5-4950-97cd-d93b6b80df2c")
+			(uuid "787be5f7-6c91-4005-b163-c17da6e40b1a")
 		)
 		(pin "1"
-			(uuid "4c369b4c-8a53-4033-8866-32ceb1ce01e6")
+			(uuid "a3be98ff-62a0-4295-9248-96dde60e21da")
+		)
+		(pin "4"
+			(uuid "19f7a11b-28fe-45b1-b53c-419eaf9bae15")
+		)
+		(pin "2"
+			(uuid "9f42db63-cd06-49d2-96e3-954cd7912f9a")
 		)
 		(instances
-			(project ""
+			(project "sensor_pcb"
 				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b"
-					(reference "J5")
+					(reference "J7")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "#dzdb:s_con/CON-WUR-66200821022")
-		(at 111.76 95.25 90)
+		(lib_id "#dzdb:s_con/CON-WUR-66200821024")
+		(at 111.76 77.47 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b349c866-95b8-4946-87e4-e438027b264d")
-		(property "Reference" "J3"
-			(at 111.76 83.82 90)
+		(uuid "b67f6ea8-36ae-4c85-b49b-aab03e35bec0")
+		(property "Reference" "J5"
+			(at 111.76 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "66200821022"
-			(at 111.76 86.36 90)
+		(property "Value" "66200821024"
+			(at 111.76 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "dz_con:Wurth_66200821022"
-			(at 111.76 95.25 0)
+		(property "Footprint" "dz_con:Wurth_66200821024"
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9312,8 +9776,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/66200821022.pdf"
-			(at 111.76 95.25 0)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/66200821024.pdf"
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9321,8 +9785,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "WR-MPC3 3.00mm Dual Row 8p Male Header Right Angle TH Pegs"
-			(at 111.76 95.25 0)
+		(property "Description" "WR-MPC3 Dual Row Male Header Right Angled GW THT"
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9331,7 +9795,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 111.76 95.25 0)
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9341,7 +9805,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 111.76 95.25 0)
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9351,7 +9815,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 111.76 95.25 0)
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9361,7 +9825,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 111.76 95.25 0)
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9371,7 +9835,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 111.76 95.25 0)
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9381,7 +9845,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 111.76 95.25 0)
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9391,7 +9855,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 111.76 95.25 0)
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9401,7 +9865,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 111.76 95.25 0)
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9410,8 +9874,8 @@
 				(hide yes)
 			)
 		)
-		(property "IPN" "CON-WUR-66200821022"
-			(at 111.76 95.25 0)
+		(property "IPN" "CON-WUR-66200821024"
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9419,8 +9883,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "66200821022"
-			(at 111.76 95.25 0)
+		(property "MPN" "66200821024"
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9429,7 +9893,7 @@
 			)
 		)
 		(property "Manufacturer" "Würth Elektronik"
-			(at 111.76 95.25 0)
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9437,8 +9901,8 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol" "dz_con:Wurth_66200821022"
-			(at 111.76 95.25 0)
+		(property "Symbol" "dz_con:Wurth_66200821024"
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9447,7 +9911,7 @@
 			)
 		)
 		(property "Type" "Connector"
-			(at 111.76 95.25 0)
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9456,7 +9920,7 @@
 			)
 		)
 		(property "Pin Count" "8"
-			(at 111.76 95.25 0)
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9465,7 +9929,7 @@
 			)
 		)
 		(property "Pitch" "3.00mm"
-			(at 111.76 95.25 0)
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9473,8 +9937,8 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "Mouser"
-			(at 111.76 95.25 0)
+		(property "Supplier" "Wurth"
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9482,8 +9946,8 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "710-66200821022"
-			(at 111.76 95.25 0)
+		(property "SPN" "66200821024"
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9492,7 +9956,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 111.76 95.25 0)
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9500,43 +9964,43 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "lifecycle=Active; gender=Femaleale; orientation=Right Angle; current=5A; voltage=250V; features=Dual Row Plastic Pegs; note=WR-MPC3 series through hole"
-			(at 111.76 95.25 0)
+		(property "Comment" "lifecycle=Active; gender=Male; orientation=Vertical; current=5A; voltage=250V; features=Dual Row Plastic Pegs; note=WR-MPC3 series vertical through-hole male header"
+			(at 111.76 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "6"
-			(uuid "a1ed0baf-76c8-4e7d-9ab4-15f2f4eed5c5")
-		)
-		(pin "7"
-			(uuid "ad4bb4ae-25a4-4980-b65a-da26c6fefa07")
 		)
 		(pin "8"
-			(uuid "a5687405-32bb-42c1-a965-e3bf6674549c")
+			(uuid "8ba875df-3f01-45b4-aba7-c33a17896327")
+		)
+		(pin "7"
+			(uuid "729645c4-f640-493c-84ab-53d6ff209c64")
 		)
 		(pin "4"
-			(uuid "49628b2d-52a7-4c16-96c3-107684be9ade")
+			(uuid "61af27ca-a92a-43b5-988e-09501a2a70ba")
 		)
 		(pin "3"
-			(uuid "e504816e-c39b-4cae-a6f7-00517d649c0f")
+			(uuid "7a7f5848-6389-4b25-be3a-64968760f61c")
 		)
-		(pin "5"
-			(uuid "c669174d-c685-4936-9b9b-303e12b68ec6")
-		)
-		(pin "1"
-			(uuid "08208862-5dd2-41b3-8ada-cb5c1f42597a")
+		(pin "6"
+			(uuid "3aaac033-2d71-4b25-9ff9-68ea72f8af0a")
 		)
 		(pin "2"
-			(uuid "e591b204-7e81-4442-b4c7-a9c969385fe1")
+			(uuid "9b28836a-5f41-417e-817d-7331f2b84bd4")
+		)
+		(pin "5"
+			(uuid "9be77bca-7c81-4735-ad06-da735b3074c9")
+		)
+		(pin "1"
+			(uuid "4837afa2-63cd-4ce7-8288-01ed99b695a6")
 		)
 		(instances
 			(project ""
 				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b"
-					(reference "J3")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -9838,182 +10302,6 @@
 			(project "sensor_pcb"
 				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b"
 					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "#dzdb:s_con/CON-WUR-662004231722")
-		(at 34.29 139.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e8b0cb8c-26ea-4edd-92ed-f60d6764a2b5")
-		(property "Reference" "J1"
-			(at 36.83 138.4299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "662004231722"
-			(at 36.83 140.9699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "dz_con:Wurth_662004231722"
-			(at 34.29 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/662004231722.pdf"
-			(at 34.29 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "WR-MPC4 3.00mm Dual Row 4p Male Header Vertical TH"
-			(at 34.29 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "IPN" "CON-WUR-662004231722"
-			(at 34.29 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "662004231722"
-			(at 34.29 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Würth Elektronik"
-			(at 34.29 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Symbol" "dz_con:Wurth_662004231722"
-			(at 34.29 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" "Connector"
-			(at 34.29 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Pin Count" "4"
-			(at 34.29 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Pitch" "3.00mm"
-			(at 34.29 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "Mouser"
-			(at 34.29 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPN" "710-662004231722"
-			(at 34.29 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" ""
-			(at 34.29 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" "lifecycle=Active; gender=Male; orientation=Vertical; current=5A; voltage=250V; features=Dual Row; note=WR-MPC4 series vertical through-hole male header"
-			(at 34.29 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f5a12b4c-88f3-48d2-bb14-933048fc994d")
-		)
-		(pin "4"
-			(uuid "a1e00f47-f64f-4637-a397-f4f63604afdb")
-		)
-		(pin "3"
-			(uuid "27e844e6-54c9-4a7e-add9-6aada5d9919f")
-		)
-		(pin "1"
-			(uuid "5a6404f6-d875-46ed-83e4-41d4a6d530ef")
-		)
-		(instances
-			(project "sensor_pcb"
-				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b"
-					(reference "J1")
 					(unit 1)
 				)
 			)

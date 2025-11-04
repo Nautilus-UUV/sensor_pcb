@@ -1568,6 +1568,26 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 31.75) (xy 53.34 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c463cfb-e41c-4218-b4ab-beb575793a60")
+	)
+	(wire
+		(pts
+			(xy 53.34 86.36) (xy 53.34 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44da0af0-a09f-4588-a390-9e671a421736")
+	)
+	(wire
+		(pts
 			(xy 53.34 63.5) (xy 53.34 71.12)
 		)
 		(stroke
@@ -1708,16 +1728,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 88.9) (xy 53.34 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8a87483-9c29-4ecb-b2bd-2f00db80bfd2")
-	)
-	(wire
-		(pts
 			(xy 27.94 101.6) (xy 35.56 101.6)
 		)
 		(stroke
@@ -1808,16 +1818,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 34.29) (xy 53.34 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f2149d6d-b0c7-4614-bdba-ca5cab6c1e1e")
-	)
-	(wire
-		(pts
 			(xy 60.96 107.95) (xy 60.96 109.22)
 		)
 		(stroke
@@ -1835,26 +1835,6 @@
 			(type default)
 		)
 		(uuid "fb752228-f4a6-4824-b8bd-97504626ed21")
-	)
-	(label "VCC"
-		(at 53.34 34.29 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "233aaaf3-a736-46bf-b2a7-c0edd5850bb0")
-	)
-	(label "VCC"
-		(at 53.34 88.9 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "529e16e7-5a59-40b9-acc1-96cc3b729884")
 	)
 	(label "Leak Sensor"
 		(at 27.94 86.36 0)
@@ -1887,6 +1867,17 @@
 		)
 		(uuid "026a613b-e6f8-40a6-8dc6-f2b7325f33f9")
 	)
+	(hierarchical_label "VDD"
+		(shape input)
+		(at 53.34 86.36 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "211e8d92-b4af-4f27-a899-4410274b02fc")
+	)
 	(hierarchical_label "sig 2.1"
 		(shape input)
 		(at 68.58 107.95 0)
@@ -1897,6 +1888,17 @@
 			(justify left)
 		)
 		(uuid "4f5d3ff4-9058-4f44-a2e4-5261428fba54")
+	)
+	(hierarchical_label "VDD"
+		(shape input)
+		(at 53.34 31.75 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "64510b33-b850-409c-989b-b4713321f841")
 	)
 	(hierarchical_label "sig 1.1"
 		(shape input)

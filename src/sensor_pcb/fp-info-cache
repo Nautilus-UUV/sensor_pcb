@@ -1,4 +1,4 @@
-26220902001925035
+26245579748083716
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -104629,6 +104629,13 @@ Varistor VF
 2
 2
 dz_act
+CSD18533Q5A
+Q5A_2024
+MOSFET (N-Channel)
+0
+9
+9
+dz_act
 IC_TPS61196PWPRQ1
 
 
@@ -104734,6 +104741,20 @@ gerry
 0
 0
 dz_cap
+CAPPRD500W65D1000H1750
+10*16---
+Capacitor Polarised
+0
+2
+2
+dz_cap
+CBR06
+CBR06
+Capacitor
+0
+2
+2
+dz_cap
 C_0603_1608Metric_custom
 Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor
@@ -104755,13 +104776,6 @@ Integrated Circuit
 9
 9
 dz_con
-662004231722
-
-
-0
-6
-6
-dz_con
 CON-DF40C-100DS-0.4V51
 
 
@@ -104770,6 +104784,13 @@ CON-DF40C-100DS-0.4V51
 100
 dz_con
 CON-TECON-2340901-1
+
+
+0
+16
+16
+dz_con
+CON_Samesky_CUI_UJ20-C-H-C-4-SMT-TR
 
 
 0
@@ -104895,12 +104916,40 @@ Wuerth_WR_CIRCM_643280100308
 9
 9
 dz_con
+Wurth_662004231722
+
+
+0
+6
+6
+dz_con
+Wurth_66200421024
+
+
+0
+4
+4
+dz_con
 Wurth_66200821022
 
 
 0
 8
 8
+dz_con
+Wurth_66200821024
+
+
+0
+8
+8
+dz_con
+Wurth_Con_61300211121
+
+
+0
+2
+2
 dz_con
 Wurth_WR-MPC3_66200211022
 3.00 mm Male Header Single Row Right Angled with Snap-In Plastic Pegs – THT – Tin, body 9.65x9.9x8.75mm, https://www.we-online.com/en/components/products/datasheet/66200211022?ki
@@ -104916,11 +104965,32 @@ THT
 2
 2
 dz_dio
+DIOM5436X244N
+DO-214AA (SMB J-Bend
+TVS Diode (Uni-directional)
+0
+2
+2
+dz_dio
+DIOM7959X262N
+SMC (DO-214AB)
+Schottky Diode
+0
+2
+2
+dz_dio
 D_SOD_993
 SOD-882, DFN1006-2, body 1.0 x 0.6 x 0.48mm, pitch 0.65mm, https://assets.nexperia.com/documents/package-information/SOD882.pdf
 Diode SOD882 DFN1006-2
 0
 4
+2
+dz_dio
+LED_0603
+
+
+0
+2
 2
 dz_dio
 SMF50ATP
@@ -104936,6 +105006,20 @@ Undefined or Miscellaneous
 0
 5
 5
+dz_dio
+TI_Switchover_TPS2121RUXT
+RUX0012A
+Integrated Circuit
+0
+12
+12
+dz_dio
+onsemi_Mosfet_BSS138
+
+
+0
+3
+3
 dz_ind
 L_MUR_2020
 
@@ -105112,6 +105196,13 @@ BMP581
 10
 10
 dz_sens
+Bosch_IMU_BMI088
+
+
+0
+16
+16
+dz_sens
 CC4VT1A
 CC4V-T1A-2
 Crystal or Oscillator
@@ -105125,6 +105216,13 @@ MSOP SO
 0
 8
 8
+dz_sens
+ICM42670P
+14 Lead LGA (2.5x3x0.76)
+Integrated Circuit
+0
+14
+14
 dz_sens
 SOIC127P600X175-8N
 SO8

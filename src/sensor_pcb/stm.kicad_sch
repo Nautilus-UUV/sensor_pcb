@@ -1543,6 +1543,17 @@
 		)
 		(uuid "1da47e87-f1f1-47a9-a950-9f36790b1b09")
 	)
+	(hierarchical_label "PA9"
+		(shape input)
+		(at 85.09 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "397fc6f6-9a90-4596-826a-825b75c3bd9e")
+	)
 	(hierarchical_label "PA4"
 		(shape input)
 		(at 85.09 71.12 0)
@@ -1586,6 +1597,17 @@
 			(justify right)
 		)
 		(uuid "9e18e911-3185-43b0-b703-12821f89f3b1")
+	)
+	(hierarchical_label "PA6"
+		(shape input)
+		(at 85.09 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a66ff873-3a9e-4b9e-b41f-9614af295450")
 	)
 	(hierarchical_label "PA3"
 		(shape input)

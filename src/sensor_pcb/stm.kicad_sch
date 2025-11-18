@@ -1493,6 +1493,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 119.38) (xy 54.61 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a54d7cfd-cd63-4c75-88eb-2c9ba298681e")
+	)
+	(wire
+		(pts
 			(xy 48.26 99.06) (xy 54.61 99.06)
 		)
 		(stroke
@@ -1521,6 +1531,17 @@
 		)
 		(uuid "d0bafcd2-f649-4247-9748-7ec7ec7d05f4")
 	)
+	(hierarchical_label "PB3"
+		(shape input)
+		(at 48.26 93.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "00ceb5a4-f45e-44b4-b569-b1050255b2eb")
+	)
 	(hierarchical_label "PB1"
 		(shape input)
 		(at 48.26 88.9 180)
@@ -1531,6 +1552,17 @@
 			(justify right)
 		)
 		(uuid "16608b23-e4bb-402c-b9ca-0d9df8b42ac9")
+	)
+	(hierarchical_label "PB6"
+		(shape input)
+		(at 48.26 101.6 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1b4490af-ee29-4d2e-9d6d-dea7ab1d2290")
 	)
 	(hierarchical_label "PA2"
 		(shape input)
@@ -1587,6 +1619,39 @@
 		)
 		(uuid "496e6bd5-7e80-4ee1-83fb-01ca47852d9a")
 	)
+	(hierarchical_label "PB2"
+		(shape input)
+		(at 48.26 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "533c8e1c-88c7-4a14-b179-f40ece315adb")
+	)
+	(hierarchical_label "PB5"
+		(shape input)
+		(at 48.26 99.06 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5b144559-999f-49f0-a72e-14ee0a36de93")
+	)
+	(hierarchical_label "PB4"
+		(shape input)
+		(at 48.26 96.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "980e9910-2635-4f92-8f97-24845fd54b4a")
+	)
 	(hierarchical_label "GND"
 		(shape input)
 		(at 71.12 140.97 180)
@@ -1620,6 +1685,17 @@
 		)
 		(uuid "cbea4449-3ae1-43f4-b4b6-387a8e7396f0")
 	)
+	(hierarchical_label "PB13"
+		(shape input)
+		(at 48.26 119.38 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cf8cea66-e469-46f8-92b4-aa201daacb87")
+	)
 	(hierarchical_label "VDD"
 		(shape input)
 		(at 67.31 53.34 90)
@@ -1630,6 +1706,17 @@
 			(justify left)
 		)
 		(uuid "e4f690e7-8736-4e88-8a25-a3d2a08ce353")
+	)
+	(hierarchical_label "PB7"
+		(shape input)
+		(at 48.26 104.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e91744b7-ed57-497d-ad53-4d9602e06267")
 	)
 	(hierarchical_label "PA0"
 		(shape input)

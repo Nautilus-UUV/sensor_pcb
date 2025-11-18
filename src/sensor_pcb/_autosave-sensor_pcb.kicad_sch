@@ -4703,7 +4703,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Board Mount Humidity Sensors Digital Humidity and Temperature Sensor incl Filter Membrane"
+			(property "Description" "Board Mount Humidity Sensors Digital Humidity and TemperaturLowe Sensor incl Filter Membrane"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5629,6 +5629,16 @@
 			)
 		)
 		(uuid "88505fa6-e19f-49ad-9bfb-03db1140a88b")
+	)
+	(text "Check footprint!\n"
+		(exclude_from_sim no)
+		(at 205.486 152.146 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9f622953-9220-4846-afef-b36823ccf381")
 	)
 	(text "CAN Connector 1\n"
 		(exclude_from_sim no)
@@ -9614,7 +9624,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Board Mount Humidity Sensors Digital Humidity and Temperature Sensor incl Filter Membrane"
+		(property "Description" "Board Mount Humidity Sensors Digital Humidity and TemperaturLowe Sensor incl Filter Membrane"
 			(at 231.14 133.35 0)
 			(effects
 				(font

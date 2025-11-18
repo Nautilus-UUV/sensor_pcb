@@ -1,4 +1,4 @@
-26245579748083716
+26284390374778537
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -104643,6 +104643,20 @@ IC_TPS61196PWPRQ1
 50
 50
 dz_ana
+CSD18540Q5B
+CSD18540Q5B-2
+MOSFET (N-Channel)
+0
+9
+9
+dz_ana
+IAUC120N06S5N011ATMA1
+PG-TDSON-8-53 | SSO8
+Integrated Circuit
+0
+10
+10
+dz_ana
 QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm
 QFN, 32 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/8008S.pdf#page=20), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -104741,9 +104755,58 @@ gerry
 0
 0
 dz_cap
+CAPC1005X55N
+C1005
+Capacitor
+0
+2
+2
+dz_cap
+CAPC1608X90N
+
+
+0
+2
+2
+dz_cap
+CAPC2012X145N
+C2012 [EIA CC0805]
+Capacitor
+0
+2
+2
+dz_cap
+CAPC3225X270N
+
+
+0
+2
+2
+dz_cap
 CAPPRD500W65D1000H1750
 10*16---
 Capacitor Polarised
+0
+2
+2
+dz_cap
+CAP_35SVPF22M
+
+
+0
+2
+2
+dz_cap
+CAP_35SVPF39M
+
+
+0
+2
+2
+dz_cap
+CAP_50SVPF68M
+
+
 0
 2
 2
@@ -104758,6 +104821,13 @@ dz_cap
 C_0603_1608Metric_custom
 Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor
+0
+2
+2
+dz_cap
+EEHZS1H221P
+Hybrid_G_G16
+Capacitor Polarised
 0
 2
 2
@@ -104825,6 +104895,13 @@ FPC_cable_18_0.5_top_contact
 18
 18
 dz_con
+FTSH-107-XX-YYY-DV
+FTSH-107-XX-YYY-DV
+Connector
+0
+14
+14
+dz_con
 IC_TPD4EUSB30DQAR
 
 
@@ -104838,13 +104915,6 @@ MOLEX_527461871
 0
 20
 19
-dz_con
-PCIE_MDT275M02001
-MDT275M02001-1
-Connector
-0
-69
-69
 dz_con
 SAMTEC_CLM_118_02_L_D_BE_reversed
 
@@ -105000,6 +105070,13 @@ TVS Diode (Uni-directional)
 2
 2
 dz_dio
+SOD3716X145N
+SOD 123
+Diode
+0
+2
+2
+dz_dio
 SOT65P210X110-5N
 74LVC1G07SE-7
 Undefined or Miscellaneous
@@ -105021,9 +105098,30 @@ onsemi_Mosfet_BSS138
 3
 3
 dz_ind
+7443641500
+7443641500-2
+Inductor
+0
+3
+3
+dz_ind
+HC31R0R
+HC3-1R0-R-2
+Inductor
+0
+2
+2
+dz_ind
 L_MUR_2020
 
 
+0
+2
+2
+dz_ind
+XAL1010
+XAL1010-1
+Inductor
 0
 2
 2
@@ -105055,6 +105153,13 @@ Untitled
 0
 0
 0
+dz_mech
+CMT1209590T
+12mm x 9mm
+Loudspeaker or Buzzer
+0
+2
+2
 dz_mech
 PT-1140PEQ
 PT-1140PEQ-1
@@ -105133,12 +105238,33 @@ LM5118MH/NOPB
 21
 21
 dz_pwr
+QFN50P500X400X100-29N
+
+
+0
+34
+34
+dz_pwr
+RDF0022A-MFG
+
+TPSM63610RDFR 
+0
+30
+30
+dz_pwr
 RDX0007A-MFG
 
 PTPSM863253RDXR 
 0
 19
 19
+dz_pwr
+RPH0016A
+
+LM61480RPHR 
+0
+16
+16
 dz_pwr
 SON50P160X120X60_5N_D
 SIP32432DNP3-T1GE4-1
@@ -105188,6 +105314,27 @@ TPSM64406RCHR FCMOD
 0
 28
 28
+dz_res
+CRCW0402200KFKED
+CRCW0402
+Resistor
+0
+2
+2
+dz_res
+RESC1632X60N
+PRL1632
+Resistor
+0
+2
+2
+dz_res
+RESC11670X254N
+WSR35L000FEA
+Resistor
+0
+2
+2
 dz_sens
 BMP581
 <b>BMP581-7</b><br>

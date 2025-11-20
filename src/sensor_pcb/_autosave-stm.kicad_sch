@@ -32,7 +32,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_QFP:LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm_ThermalVias"
+			(property "Footprint" "dz_mcu:STM32L451CET6"
 				(at -12.7 -35.56 0)
 				(effects
 					(font
@@ -240,7 +240,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "Package_QFP:LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm_ThermalVias"
+			(property "ki_fp_filters" "dz_mcu:STM32L451CET6"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1410,6 +1410,114 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ccf970e3-4195-4476-950a-cd1366b1a91b")
+	)
+	(no_connect
+		(at 54.61 109.22)
+		(uuid "066bed0e-d951-46b6-9f08-6ce3db536a3e")
+	)
+	(no_connect
+		(at 54.61 106.68)
+		(uuid "0f45555c-0b46-46cf-9fdf-88ea945ed20e")
+	)
+	(no_connect
+		(at 54.61 114.3)
+		(uuid "22552582-68a5-4990-84a0-23411036e97e")
+	)
+	(no_connect
+		(at 54.61 81.28)
+		(uuid "322a4c16-84ac-4ba2-b1d4-560b5d95bcff")
+	)
+	(no_connect
+		(at 54.61 124.46)
+		(uuid "36ff8c30-f712-4c3c-a8d9-76c600aff2e4")
+	)
+	(no_connect
+		(at 54.61 116.84)
+		(uuid "5640e350-041c-428e-9ac3-ad1a0b0e84ac")
+	)
+	(no_connect
+		(at 85.09 99.06)
+		(uuid "664a4a5c-9b9b-4694-ad26-86f2f1902fb2")
+	)
+	(no_connect
+		(at 54.61 111.76)
+		(uuid "6fe3f171-3999-4648-b836-61c99a0c74bb")
+	)
+	(no_connect
+		(at 85.09 91.44)
+		(uuid "75cab2f6-df14-4074-8856-6af18100201c")
+	)
+	(no_connect
+		(at 54.61 121.92)
+		(uuid "765a4cd1-9525-4eb7-bcbc-836ea8a345fb")
+	)
+	(no_connect
+		(at 85.09 96.52)
+		(uuid "76e01f46-3979-42da-a392-3d8ebff8f297")
+	)
+	(no_connect
+		(at 54.61 76.2)
+		(uuid "8a1944a1-d243-4332-8ac4-64cc36bbf6af")
+	)
+	(no_connect
+		(at 64.77 53.34)
+		(uuid "8a54deb1-03b0-4047-96fc-8baec2313cdb")
+	)
+	(no_connect
+		(at 54.61 68.58)
+		(uuid "8b3b3229-fbe3-41b7-ab50-80d8ff151391")
+	)
+	(no_connect
+		(at 54.61 78.74)
+		(uuid "93897fd0-4a8d-4d14-aba2-6a78657874b8")
+	)
+	(no_connect
+		(at 74.93 53.34)
+		(uuid "939bb965-0da3-40a8-9889-528536aad1b5")
+	)
+	(no_connect
+		(at 54.61 60.96)
+		(uuid "a0c1383a-57fc-4808-804e-7bc3c104d6f3")
+	)
+	(no_connect
+		(at 85.09 88.9)
+		(uuid "a7c6ca04-f65f-4311-82ff-0b96bdeca897")
+	)
+	(no_connect
+		(at 54.61 66.04)
+		(uuid "b8b960a6-eeca-4f8d-bd4b-49053d9e34a9")
+	)
+	(no_connect
+		(at 85.09 78.74)
+		(uuid "c3c155ce-5a7f-443e-8f76-de4246f04ad0")
+	)
+	(no_connect
+		(at 85.09 81.28)
+		(uuid "ce56578c-e521-4213-8d35-520695f58d6f")
+	)
+	(no_connect
+		(at 85.09 86.36)
+		(uuid "d47738de-53cb-427d-9ce5-10dd1ddd6e7a")
+	)
+	(no_connect
+		(at 85.09 83.82)
+		(uuid "d5dbb6d2-cde3-4c80-8dea-0468252207fb")
+	)
+	(no_connect
+		(at 69.85 53.34)
+		(uuid "d71943ef-aaba-4ecc-920d-ccc763b35dc6")
+	)
+	(no_connect
+		(at 72.39 53.34)
+		(uuid "f4a375dc-9bf3-431d-8a9b-4a08ee36d033")
+	)
+	(no_connect
+		(at 85.09 93.98)
+		(uuid "f4f0f53c-3243-43c8-9488-e6d654430729")
+	)
+	(no_connect
+		(at 54.61 71.12)
+		(uuid "ffec6567-0e1f-4293-85e3-e74e40186c54")
 	)
 	(wire
 		(pts

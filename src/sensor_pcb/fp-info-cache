@@ -1,4 +1,4 @@
-26284390374778537
+26287917554560527
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105140,6 +105140,13 @@ Integrated Circuit
 64
 64
 dz_mcu
+STM32L451CET6
+LQFP, 48 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+59
+49
+dz_mcu
 STM32_H735IGT3
 
 
@@ -105370,6 +105377,13 @@ Integrated Circuit
 0
 14
 14
+dz_sens
+QFN10_BMP581_BOS
+
+BMP581 
+0
+10
+10
 dz_sens
 SOIC127P600X175-8N
 SO8

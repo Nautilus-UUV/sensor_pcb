@@ -490,7 +490,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.6,
+        "track_width": 1.0,
         "via_diameter": 0.8,
         "via_drill": 0.4
       }
@@ -504,6 +504,10 @@
       {
         "netclass": "5V",
         "pattern": "+5V"
+      },
+      {
+        "netclass": "3V3",
+        "pattern": "+3.3V"
       }
     ]
   },
@@ -640,12 +644,12 @@
       "Root"
     ],
     [
-      "dee657b3-24ee-4bdc-baa3-d8df0446c5a4",
-      "stm"
-    ],
-    [
       "25505579-f371-45f0-b693-bce8d42cdc2c",
       "Leak sensors"
+    ],
+    [
+      "732bea8c-e0cc-4e1a-a1ed-6dfe819795e6",
+      "sensor_stm"
     ]
   ],
   "text_variables": {}

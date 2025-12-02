@@ -1,4 +1,4 @@
-26293208474185079
+26305577229308234
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -104629,6 +104629,13 @@ Varistor VF
 2
 2
 dz_act
+830205028309
+830205028309-1
+Crystal or Oscillator
+0
+4
+4
+dz_act
 CSD18533Q5A
 Q5A_2024
 MOSFET (N-Channel)
@@ -104748,6 +104755,20 @@ aris_16mm_silk
 0
 0
 dz_art
+davide_logo
+
+
+0
+0
+0
+dz_art
+evan_logo
+
+
+0
+0
+0
+dz_art
 gerry
 
 
@@ -104846,6 +104867,13 @@ Integrated Circuit
 9
 9
 dz_con
+66201221122_WR-MPC3_
+66201221122 (WR-MPC3)
+Connector
+0
+12
+12
+dz_con
 CON-DF40C-100DS-0.4V51
 
 
@@ -104929,6 +104957,13 @@ MOLEX_527461871
 0
 20
 19
+dz_con
+PCIE_MDT275M02001
+
+
+0
+70
+70
 dz_con
 SAMTEC_CLM_118_02_L_D_BE_reversed
 
@@ -105098,6 +105133,20 @@ Undefined or Miscellaneous
 5
 5
 dz_dio
+SOT95P240X104-3N
+SOT-23-3
+Zener Diode
+0
+3
+3
+dz_dio
+TI_Prot_TPD2EUSB30DRTR
+DRT (R-PDSO-N3)
+Diode
+0
+3
+3
+dz_dio
 TI_Switchover_TPS2121RUXT
 RUX0012A
 Integrated Circuit
@@ -105136,6 +105185,13 @@ dz_ind
 L_MUR_2020
 
 
+0
+2
+2
+dz_ind
+WE-HCI_7030_7040_705023
+WE-HCI_7030/7040/705023
+Inductor
 0
 2
 2

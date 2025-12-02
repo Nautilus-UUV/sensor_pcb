@@ -1,4 +1,4 @@
-26287917554560527
+26293208474185079
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -104881,6 +104881,13 @@ Raspberry Pi 4 Compute Module
 200
 200
 dz_con
+EPOS-SAMTEC_LSHM-140-02.5-L-DV-A-N-K-TR
+
+
+0
+80
+80
+dz_con
 FPC_cable_18_0.5_bottom_contact
 
 
@@ -104908,6 +104915,13 @@ IC_TPD4EUSB30DQAR
 0
 10
 10
+dz_con
+LSHM-140-XX.X-YYY-DV-A-N-K-TR
+LSHM-140-XX.X-YYY-DV-A-N-K-TR
+Connector
+0
+80
+80
 dz_con
 MOLEX_527461871
 
@@ -105090,6 +105104,13 @@ Integrated Circuit
 0
 12
 12
+dz_dio
+Wuerth_LED_150060RS83000
+150060RS83000
+LED
+0
+2
+2
 dz_dio
 onsemi_Mosfet_BSS138
 

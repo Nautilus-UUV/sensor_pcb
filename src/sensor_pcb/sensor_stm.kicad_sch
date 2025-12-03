@@ -4903,7 +4903,7 @@
 		(uuid 3cbce073-2e3e-4be5-98c8-d49bea3d71e4)
 	)
 	(rectangle
-		(start 151.13 21.59)
+		(start 146.05 21.59)
 		(end 280.67 68.58)
 		(stroke
 			(width 0)
@@ -4936,7 +4936,7 @@
 	)
 	(text "Decoupling"
 		(exclude_from_sim no)
-		(at 146.05 20.574 0)
+		(at 150.876 20.32 0)
 		(effects
 			(font
 				(size 1.27 1.27)

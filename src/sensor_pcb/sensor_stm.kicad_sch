@@ -5,6 +5,7 @@
 	(uuid "4754b552-c32e-4617-a450-555ca4a0fc7b")
 	(paper "A4")
 	(title_block
+		(title "Sensor PCB: stm")
 		(date "2025-10-21")
 		(company "Giacomo Raggi")
 	)
@@ -2492,6 +2493,490 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "#dzdb:s_dio/WURT-710-82402374"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 7.62 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "710-82402374"
+				(at 7.62 0.635 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+				(at 7.62 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.we-online.com/components/products/datasheet/82402374.pdf"
+				(at 3.175 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "ESD-Schutzdioden / TVS-Dioden WE-TVS Standard 2.5uA 5VDC 4Channel"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "IPN" "WURT-710-82402374"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "710-82402374"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Wurth Elektronik"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Type" "ESD-Schutzdioden / TVS-Dioden"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Vf" "0.6-1V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "If" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier" "Mouser"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "SPN" "710-82402374"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Comment" "note=Auto-generated"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "usb esd protection suppression transient"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Package_TO_SOT_SMD:SOT-23-5"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "s_dio/WURT-710-82402374_0_0"
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "s_dio/WURT-710-82402374_0_1"
+				(rectangle
+					(start -4.445 2.54)
+					(end 6.985 -2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.302 1.016) (xy -3.302 1.27) (xy -1.778 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 2.54) (xy -2.54 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 1.27) (xy -2.54 -1.27) (xy 2.54 -1.27) (xy 2.54 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 1.27) (xy -1.905 0) (xy -3.175 0) (xy -2.54 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.27)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 0) (xy -0.635 0) (xy 0 1.27) (xy 0.635 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 1.27) (xy -0.762 1.27) (xy -0.762 1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.778 1.016) (xy 1.778 1.27) (xy 3.175 1.27) (xy 3.302 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 2.54 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 1.27) (xy 1.905 0) (xy 3.175 0) (xy 2.54 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 -1.27)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.318 1.016) (xy 4.318 1.27) (xy 5.715 1.27) (xy 5.842 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 5.08 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 1.27) (xy 5.08 -1.27) (xy 2.54 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 1.27) (xy 4.445 0) (xy 5.715 0) (xy 5.08 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "s_dio/WURT-710-82402374_1_1"
+				(pin passive line
+					(at -2.54 5.08 270)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 5.08 270)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "#dzdb:s_ind/L-MUR-BLM18SP101SN1"
 			(pin_numbers
 				(hide yes)
@@ -4892,7 +5377,7 @@
 	)
 	(rectangle
 		(start 138.43 118.11)
-		(end 218.44 152.4)
+		(end 224.79 167.64)
 		(stroke
 			(width 0)
 			(type default)
@@ -5061,6 +5546,12 @@
 		(uuid "7eb403ff-f43d-46c5-b4ee-ba42fcb42094")
 	)
 	(junction
+		(at 160.02 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8487c601-3749-47f1-836e-8f8d5accb05e")
+	)
+	(junction
 		(at 219.71 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5179,6 +5670,10 @@
 	(no_connect
 		(at 114.3 101.6)
 		(uuid "670e9918-ca82-4f9c-8f25-ee2f7546a729")
+	)
+	(no_connect
+		(at 199.39 156.21)
+		(uuid "71601bde-d9e6-41e1-8984-629bd3b9a7b0")
 	)
 	(no_connect
 		(at 83.82 81.28)
@@ -5336,7 +5831,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 134.62) (xy 187.96 134.62)
+			(xy 184.15 134.62) (xy 205.74 134.62)
 		)
 		(stroke
 			(width 0)
@@ -5356,7 +5851,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 142.24) (xy 186.69 142.24)
+			(xy 184.15 142.24) (xy 196.85 142.24)
 		)
 		(stroke
 			(width 0)
@@ -5376,7 +5871,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 137.16) (xy 187.96 137.16)
+			(xy 184.15 137.16) (xy 205.74 137.16)
 		)
 		(stroke
 			(width 0)
@@ -5466,7 +5961,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 132.08) (xy 187.96 132.08)
+			(xy 184.15 132.08) (xy 205.74 132.08)
 		)
 		(stroke
 			(width 0)
@@ -5516,6 +6011,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 144.78) (xy 161.29 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a25e54d-a17e-47af-ae34-07b9782acc14")
+	)
+	(wire
+		(pts
 			(xy 33.02 74.93) (xy 45.72 74.93)
 		)
 		(stroke
@@ -5546,7 +6051,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 144.78) (xy 161.29 144.78)
+			(xy 151.13 144.78) (xy 160.02 144.78)
 		)
 		(stroke
 			(width 0)
@@ -5563,6 +6068,16 @@
 			(type default)
 		)
 		(uuid "5aa376b6-7cee-4f3b-9de0-beb9847787c0")
+	)
+	(wire
+		(pts
+			(xy 160.02 153.67) (xy 199.39 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ceac858-54b3-471f-93eb-2c4ea545b864")
 	)
 	(wire
 		(pts
@@ -5646,7 +6161,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 139.7) (xy 187.96 139.7)
+			(xy 184.15 139.7) (xy 205.74 139.7)
 		)
 		(stroke
 			(width 0)
@@ -5693,6 +6208,16 @@
 			(type default)
 		)
 		(uuid "843aa47a-50ea-4f64-a2ab-2d8faa21f5fe")
+	)
+	(wire
+		(pts
+			(xy 196.85 148.59) (xy 196.85 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86655659-9fdb-46c8-980b-2cce7f3eff63")
 	)
 	(wire
 		(pts
@@ -5793,6 +6318,16 @@
 			(type default)
 		)
 		(uuid "9e0fde52-dc60-449c-a6e2-ab538f44828f")
+	)
+	(wire
+		(pts
+			(xy 209.55 153.67) (xy 213.36 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e138d86-9e28-4547-bfec-56c11011e1cc")
 	)
 	(wire
 		(pts
@@ -5956,6 +6491,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 148.59) (xy 196.85 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bce96d02-5a05-4df6-85f1-adaae9a28a6e")
+	)
+	(wire
+		(pts
 			(xy 245.11 44.45) (xy 245.11 46.99)
 		)
 		(stroke
@@ -5993,6 +6538,16 @@
 			(type default)
 		)
 		(uuid "c498d68b-f78b-4b47-af6a-e166099a104c")
+	)
+	(wire
+		(pts
+			(xy 194.31 144.78) (xy 194.31 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c73c85b4-3b1b-4c21-9e82-43cef8fe13c0")
 	)
 	(wire
 		(pts
@@ -6046,6 +6601,26 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 137.16) (xy 218.44 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2b4655e-8e53-49bb-82b8-c67c0a29ee0b")
+	)
+	(wire
+		(pts
+			(xy 160.02 144.78) (xy 160.02 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6ffcd21-c766-4c4c-8e99-b6a2857199f1")
+	)
+	(wire
+		(pts
 			(xy 96.52 63.5) (xy 99.06 63.5)
 		)
 		(stroke
@@ -6086,7 +6661,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 144.78) (xy 186.69 144.78)
+			(xy 184.15 144.78) (xy 194.31 144.78)
 		)
 		(stroke
 			(width 0)
@@ -6183,6 +6758,16 @@
 			(type default)
 		)
 		(uuid "f498e9d7-4f4b-472b-b6ca-b46dad913b70")
+	)
+	(wire
+		(pts
+			(xy 194.31 151.13) (xy 199.39 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5ac959b-e369-4fa9-8a7a-3d3bd08b671c")
 	)
 	(wire
 		(pts
@@ -6921,6 +7506,174 @@
 		)
 	)
 	(symbol
+		(lib_id "#dzdb:s_dio/WURT-710-82402374")
+		(at 210.82 137.16 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "27609698-90cc-4b34-a3b7-f089dacafc65")
+		(property "Reference" "D21"
+			(at 210.82 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "710-82402374"
+			(at 210.82 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+			(at 212.09 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/82402374.pdf"
+			(at 207.645 133.985 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "ESD-Schutzdioden / TVS-Dioden WE-TVS Standard 2.5uA 5VDC 4Channel"
+			(at 210.82 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IPN" "WURT-710-82402374"
+			(at 210.82 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "710-82402374"
+			(at 210.82 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth Elektronik"
+			(at 210.82 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD-Schutzdioden / TVS-Dioden"
+			(at 210.82 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vf" "0.6-1V"
+			(at 210.82 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "If" ""
+			(at 210.82 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 210.82 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "710-82402374"
+			(at 210.82 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 210.82 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "note=Auto-generated"
+			(at 210.82 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "76275392-7491-42bd-b85a-94b11283edd7")
+		)
+		(pin "1"
+			(uuid "15a88efd-08aa-4620-beea-027555fa49b3")
+		)
+		(pin "4"
+			(uuid "d491258f-a7d2-4ff8-903f-b674c01fe4dc")
+		)
+		(pin "5"
+			(uuid "84d57f0b-a51b-46b3-a9c5-711432a9e679")
+		)
+		(pin "3"
+			(uuid "924c772b-5b48-4cf9-a8a3-862c3c30de5c")
+		)
+		(instances
+			(project ""
+				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b/732bea8c-e0cc-4e1a-a1ed-6dfe819795e6"
+					(reference "D21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 219.71 39.37 0)
 		(unit 1)
@@ -7317,6 +8070,72 @@
 			(project ""
 				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b/732bea8c-e0cc-4e1a-a1ed-6dfe819795e6"
 					(reference "R41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 218.44 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3da62e60-8fc8-4b1c-9698-6c1cee3427d6")
+		(property "Reference" "#PWR045"
+			(at 218.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 218.44 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 218.44 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 218.44 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 218.44 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fb557e8c-1323-4511-b996-d792150348db")
+		)
+		(instances
+			(project "sensor_pcb"
+				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b/732bea8c-e0cc-4e1a-a1ed-6dfe819795e6"
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -7766,6 +8585,174 @@
 			(project "sensor_pcb"
 				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b/732bea8c-e0cc-4e1a-a1ed-6dfe819795e6"
 					(reference "#PWR0101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "#dzdb:s_dio/WURT-710-82402374")
+		(at 204.47 153.67 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7446e241-3b4c-47d2-a5df-d8957e7575b6")
+		(property "Reference" "D22"
+			(at 204.47 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "710-82402374"
+			(at 204.47 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+			(at 205.74 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/82402374.pdf"
+			(at 201.295 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "ESD-Schutzdioden / TVS-Dioden WE-TVS Standard 2.5uA 5VDC 4Channel"
+			(at 204.47 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IPN" "WURT-710-82402374"
+			(at 204.47 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "710-82402374"
+			(at 204.47 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Wurth Elektronik"
+			(at 204.47 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "ESD-Schutzdioden / TVS-Dioden"
+			(at 204.47 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vf" "0.6-1V"
+			(at 204.47 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "If" ""
+			(at 204.47 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 204.47 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" "710-82402374"
+			(at 204.47 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 204.47 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "note=Auto-generated"
+			(at 204.47 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "41e0b150-61bf-441b-bbb4-b6bcda14d33a")
+		)
+		(pin "1"
+			(uuid "dc935d85-ab85-4ad9-bf92-87897d34ae7d")
+		)
+		(pin "4"
+			(uuid "f1667d44-b858-4886-bd81-295743fe5c81")
+		)
+		(pin "5"
+			(uuid "2c727c97-8c17-4491-adba-fb8473f9fccc")
+		)
+		(pin "3"
+			(uuid "56c264f0-c6aa-4258-aef0-cce8db94f35d")
+		)
+		(instances
+			(project "sensor_pcb"
+				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b/732bea8c-e0cc-4e1a-a1ed-6dfe819795e6"
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -8720,6 +9707,72 @@
 			(project "sensor_pcb"
 				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b/732bea8c-e0cc-4e1a-a1ed-6dfe819795e6"
 					(reference "C31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 213.36 153.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "92e6e77a-8e67-445b-821f-8902d5489d75")
+		(property "Reference" "#PWR046"
+			(at 213.36 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 213.36 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 213.36 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 213.36 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 213.36 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "309fe85e-ed61-4ea1-b4bc-ae0fb97ad748")
+		)
+		(instances
+			(project "sensor_pcb"
+				(path "/4c8e18e1-465e-4d97-b2d1-f3fb0b3e2f0b/732bea8c-e0cc-4e1a-a1ed-6dfe819795e6"
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)

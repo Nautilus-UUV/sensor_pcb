@@ -3282,7 +3282,7 @@
 					)
 				)
 			)
-			(property "Value" "SMBJ3V3-M3/52"
+			(property "Value" "SMBJ3.3A"
 				(at 0 -2.54 0)
 				(effects
 					(font
@@ -3291,7 +3291,7 @@
 				)
 			)
 			(property "Footprint" "Diode_SMD:D_SMB"
-				(at 0 0 0)
+				(at 0 -5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3299,8 +3299,8 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.vishay.com/docs/88940/smbj3v3.pdf"
-				(at 0 0 0)
+			(property "Datasheet" "-55°C to +150°C"
+				(at -1.27 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3326,7 +3326,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "SMBJ3V3-M3/52"
+			(property "MPN" "SMBJ3.3A"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3353,7 +3353,7 @@
 					(hide yes)
 				)
 			)
-			(property "Vf" "---"
+			(property "Vf" "N/A"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3362,7 +3362,7 @@
 					(hide yes)
 				)
 			)
-			(property "If" "85A"
+			(property "If" "3.3V"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3371,7 +3371,7 @@
 					(hide yes)
 				)
 			)
-			(property "Supplier" "Mouser"
+			(property "Supplier" "85A"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3380,7 +3380,7 @@
 					(hide yes)
 				)
 			)
-			(property "SPN" "78-SMBJ3V3-M3/52"
+			(property "SPN" "100uA"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3389,7 +3389,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC" ""
+			(property "LCSC" "SMB (DO-214AA)"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3398,7 +3398,7 @@
 					(hide yes)
 				)
 			)
-			(property "Comment" "lifecycle=Active;app=ESD protection;V_clamp_max=7.0V;note=General purpose TVS diode"
+			(property "Comment" "LCSC-PN"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3407,7 +3407,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "diode"
+			(property "ki_keywords" "diode TVS voltage suppressor"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3428,7 +3428,7 @@
 			(symbol "s_dio/D-TVS-SMBJ3V3_0_1"
 				(polyline
 					(pts
-						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
+						(xy -0.762 1.27) (xy -1.27 1.27) (xy -1.27 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3440,19 +3440,7 @@
 				)
 				(polyline
 					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -3467,7 +3455,7 @@
 				(pin passive line
 					(at -3.81 0 0)
 					(length 2.54)
-					(name "K"
+					(name "A1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3485,7 +3473,7 @@
 				(pin passive line
 					(at 3.81 0 180)
 					(length 2.54)
-					(name "A"
+					(name "A2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3749,7 +3737,7 @@
 					(hide yes)
 				)
 			)
-			(property "SPN" "710-150060RS73220"
+			(property "SPN" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -5402,7 +5390,7 @@
 					(hide yes)
 				)
 			)
-			(property "SPN" "262-BMP581"
+			(property "SPN" "733-BMP581"
 				(at 0 0 0)
 				(effects
 					(font
@@ -10041,7 +10029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/88940/smbj3v3.pdf"
+		(property "Datasheet" "-55°C to +150°C"
 			(at 210.82 27.94 0)
 			(effects
 				(font
@@ -10068,7 +10056,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SMBJ3V3-M3/52"
+		(property "MPN" "SMBJ3.3A"
 			(at 210.82 26.67 0)
 			(effects
 				(font
@@ -10095,7 +10083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vf" "---"
+		(property "Vf" "N/A"
 			(at 210.82 26.67 0)
 			(effects
 				(font
@@ -10104,7 +10092,7 @@
 				(hide yes)
 			)
 		)
-		(property "If" "85A"
+		(property "If" "3.3V"
 			(at 210.82 26.67 0)
 			(effects
 				(font
@@ -10113,7 +10101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "Mouser"
+		(property "Supplier" "85A"
 			(at 210.82 26.67 0)
 			(effects
 				(font
@@ -10122,7 +10110,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "78-SMBJ3V3-M3/52"
+		(property "SPN" "100uA"
 			(at 210.82 26.67 0)
 			(effects
 				(font
@@ -10140,7 +10128,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "lifecycle=Active;app=ESD protection;V_clamp_max=7.0V;note=General purpose TVS diode"
+		(property "Comment" "LCSC-PN"
 			(at 210.82 26.67 0)
 			(effects
 				(font
@@ -11491,7 +11479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/88940/smbj3v3.pdf"
+		(property "Datasheet" "-55°C to +150°C"
 			(at 187.96 27.94 0)
 			(effects
 				(font
@@ -11518,7 +11506,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SMBJ3V3-M3/52"
+		(property "MPN" "SMBJ3.3A"
 			(at 187.96 26.67 0)
 			(effects
 				(font
@@ -11545,7 +11533,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vf" "---"
+		(property "Vf" "N/A"
 			(at 187.96 26.67 0)
 			(effects
 				(font
@@ -11554,7 +11542,7 @@
 				(hide yes)
 			)
 		)
-		(property "If" "85A"
+		(property "If" "3.3V"
 			(at 187.96 26.67 0)
 			(effects
 				(font
@@ -11563,7 +11551,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "Mouser"
+		(property "Supplier" "85A"
 			(at 187.96 26.67 0)
 			(effects
 				(font
@@ -11572,7 +11560,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "78-SMBJ3V3-M3/52"
+		(property "SPN" "100uA"
 			(at 187.96 26.67 0)
 			(effects
 				(font
@@ -11590,7 +11578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "lifecycle=Active;app=ESD protection;V_clamp_max=7.0V;note=General purpose TVS diode"
+		(property "Comment" "LCSC-PN"
 			(at 187.96 26.67 0)
 			(effects
 				(font
@@ -12704,7 +12692,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/88940/smbj3v3.pdf"
+		(property "Datasheet" "-55°C to +150°C"
 			(at 106.68 25.4 0)
 			(effects
 				(font
@@ -12731,7 +12719,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SMBJ3V3-M3/52"
+		(property "MPN" "SMBJ3.3A"
 			(at 106.68 24.13 0)
 			(effects
 				(font
@@ -12758,7 +12746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vf" "---"
+		(property "Vf" "N/A"
 			(at 106.68 24.13 0)
 			(effects
 				(font
@@ -12767,7 +12755,7 @@
 				(hide yes)
 			)
 		)
-		(property "If" "85A"
+		(property "If" "3.3V"
 			(at 106.68 24.13 0)
 			(effects
 				(font
@@ -12776,7 +12764,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "Mouser"
+		(property "Supplier" "85A"
 			(at 106.68 24.13 0)
 			(effects
 				(font
@@ -12785,7 +12773,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "78-SMBJ3V3-M3/52"
+		(property "SPN" "100uA"
 			(at 106.68 24.13 0)
 			(effects
 				(font
@@ -12803,7 +12791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "lifecycle=Active;app=ESD protection;V_clamp_max=7.0V;note=General purpose TVS diode"
+		(property "Comment" "LCSC-PN"
 			(at 106.68 24.13 0)
 			(effects
 				(font
@@ -13073,7 +13061,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "710-150060RS73220"
+		(property "SPN" ""
 			(at 148.59 35.56 0)
 			(effects
 				(font
@@ -13218,7 +13206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/88940/smbj3v3.pdf"
+		(property "Datasheet" "-55°C to +150°C"
 			(at 218.44 86.36 0)
 			(effects
 				(font
@@ -13245,7 +13233,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SMBJ3V3-M3/52"
+		(property "MPN" "SMBJ3.3A"
 			(at 219.71 86.36 0)
 			(effects
 				(font
@@ -13272,7 +13260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vf" "---"
+		(property "Vf" "N/A"
 			(at 219.71 86.36 0)
 			(effects
 				(font
@@ -13281,7 +13269,7 @@
 				(hide yes)
 			)
 		)
-		(property "If" "85A"
+		(property "If" "3.3V"
 			(at 219.71 86.36 0)
 			(effects
 				(font
@@ -13290,7 +13278,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "Mouser"
+		(property "Supplier" "85A"
 			(at 219.71 86.36 0)
 			(effects
 				(font
@@ -13299,7 +13287,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "78-SMBJ3V3-M3/52"
+		(property "SPN" "100uA"
 			(at 219.71 86.36 0)
 			(effects
 				(font
@@ -13317,7 +13305,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "lifecycle=Active;app=ESD protection;V_clamp_max=7.0V;note=General purpose TVS diode"
+		(property "Comment" "LCSC-PN"
 			(at 219.71 86.36 0)
 			(effects
 				(font
@@ -13799,7 +13787,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "262-BMP581"
+		(property "SPN" "733-BMP581"
 			(at 156.21 92.71 0)
 			(effects
 				(font
@@ -14436,7 +14424,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/88940/smbj3v3.pdf"
+		(property "Datasheet" "-55°C to +150°C"
 			(at 36.83 133.35 0)
 			(effects
 				(font
@@ -14463,7 +14451,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SMBJ3V3-M3/52"
+		(property "MPN" "SMBJ3.3A"
 			(at 38.1 133.35 0)
 			(effects
 				(font
@@ -14490,7 +14478,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vf" "---"
+		(property "Vf" "N/A"
 			(at 38.1 133.35 0)
 			(effects
 				(font
@@ -14499,7 +14487,7 @@
 				(hide yes)
 			)
 		)
-		(property "If" "85A"
+		(property "If" "3.3V"
 			(at 38.1 133.35 0)
 			(effects
 				(font
@@ -14508,7 +14496,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "Mouser"
+		(property "Supplier" "85A"
 			(at 38.1 133.35 0)
 			(effects
 				(font
@@ -14517,7 +14505,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "78-SMBJ3V3-M3/52"
+		(property "SPN" "100uA"
 			(at 38.1 133.35 0)
 			(effects
 				(font
@@ -14535,7 +14523,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "lifecycle=Active;app=ESD protection;V_clamp_max=7.0V;note=General purpose TVS diode"
+		(property "Comment" "LCSC-PN"
 			(at 38.1 133.35 0)
 			(effects
 				(font
@@ -17589,7 +17577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/88940/smbj3v3.pdf"
+		(property "Datasheet" "-55°C to +150°C"
 			(at 220.98 96.52 0)
 			(effects
 				(font
@@ -17616,7 +17604,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SMBJ3V3-M3/52"
+		(property "MPN" "SMBJ3.3A"
 			(at 222.25 96.52 0)
 			(effects
 				(font
@@ -17643,7 +17631,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vf" "---"
+		(property "Vf" "N/A"
 			(at 222.25 96.52 0)
 			(effects
 				(font
@@ -17652,7 +17640,7 @@
 				(hide yes)
 			)
 		)
-		(property "If" "85A"
+		(property "If" "3.3V"
 			(at 222.25 96.52 0)
 			(effects
 				(font
@@ -17661,7 +17649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "Mouser"
+		(property "Supplier" "85A"
 			(at 222.25 96.52 0)
 			(effects
 				(font
@@ -17670,7 +17658,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "78-SMBJ3V3-M3/52"
+		(property "SPN" "100uA"
 			(at 222.25 96.52 0)
 			(effects
 				(font
@@ -17688,7 +17676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "lifecycle=Active;app=ESD protection;V_clamp_max=7.0V;note=General purpose TVS diode"
+		(property "Comment" "LCSC-PN"
 			(at 222.25 96.52 0)
 			(effects
 				(font
@@ -18123,7 +18111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/88940/smbj3v3.pdf"
+		(property "Datasheet" "-55°C to +150°C"
 			(at 138.43 25.4 0)
 			(effects
 				(font
@@ -18150,7 +18138,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SMBJ3V3-M3/52"
+		(property "MPN" "SMBJ3.3A"
 			(at 138.43 24.13 0)
 			(effects
 				(font
@@ -18177,7 +18165,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vf" "---"
+		(property "Vf" "N/A"
 			(at 138.43 24.13 0)
 			(effects
 				(font
@@ -18186,7 +18174,7 @@
 				(hide yes)
 			)
 		)
-		(property "If" "85A"
+		(property "If" "3.3V"
 			(at 138.43 24.13 0)
 			(effects
 				(font
@@ -18195,7 +18183,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "Mouser"
+		(property "Supplier" "85A"
 			(at 138.43 24.13 0)
 			(effects
 				(font
@@ -18204,7 +18192,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "78-SMBJ3V3-M3/52"
+		(property "SPN" "100uA"
 			(at 138.43 24.13 0)
 			(effects
 				(font
@@ -18222,7 +18210,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "lifecycle=Active;app=ESD protection;V_clamp_max=7.0V;note=General purpose TVS diode"
+		(property "Comment" "LCSC-PN"
 			(at 138.43 24.13 0)
 			(effects
 				(font

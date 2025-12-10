@@ -1325,7 +1325,7 @@
 					(hide yes)
 				)
 			)
-			(property "SPN" "594-RCA06030000ZSTA"
+			(property "SPN" "71-RCA06030000ZSTA"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3129,7 +3129,7 @@
 					(hide yes)
 				)
 			)
-			(property "SPN" "81-BLM18SP101SN1"
+			(property "SPN" "81-BLM18SP101SN1D"
 				(at 0 0 0)
 				(effects
 					(font
@@ -7795,7 +7795,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "594-RCA06030000ZSTA"
+		(property "SPN" "71-RCA06030000ZSTA"
 			(at 193.04 31.75 0)
 			(effects
 				(font
@@ -11134,7 +11134,7 @@
 				(hide yes)
 			)
 		)
-		(property "SPN" "81-BLM18SP101SN1"
+		(property "SPN" "81-BLM18SP101SN1D"
 			(at 193.04 44.45 0)
 			(effects
 				(font
